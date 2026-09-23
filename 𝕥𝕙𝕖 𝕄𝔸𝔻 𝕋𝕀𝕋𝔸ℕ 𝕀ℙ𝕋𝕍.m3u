@@ -556,10 +556,11 @@ https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/am
 https://live-manifest.production-public.tubi.io/live/6d84d716-66f1-4f2d-8978-d0a6b99500ed/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSpQDh2j/Bike-Channel-728x378p-1.png" group-title="", 🇮🇹 BIKE Channel®
-https://cdn03.milano.nxmedge.net/bikechannel/tracks-v1a1/mono.m3u8
+https://cdn03.milano.nxmedge.net/bikechannel/tracks-v1a1/mono.m3u8?secret=omykufic&21yo=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/JzdvTptn/the-Cycling-Chanel-2025-728x378-01.png" group-title="",🇺🇸 CYCLING channel®
-https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8?secret=omykufic&21yo=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPqnh6qs/El-Conquistador-2026-728x318p-01.png" group-title="",🇪🇸 El Conquistador® 🔒
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/70f9452a-8e8c-4259-9159-dc1419678b86/5.m3u8
 
@@ -624,7 +625,7 @@ https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pT3Cth5B/AVIASTREAM-MMXXVI-728x507p-1.png" group-title="",🇺🇦 AviaStream®
-https://iptv.prosto.tv/id549/index.m3u8?secret=omykufic&21yo=1
+https://iptv.prosto.tv/id549/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wv6xQVKm/TV-Florida-2026-728x474p-01.png" group-title="",🇺🇸 TV Florida® 🇧🇷
 https://srv6.zcast.com.br/tvfloridausa/tvfloridausa/playlist.m3u8
@@ -651,13 +652,23 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-br2kn7b1aftit.m3u8
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FREEДOM" tvg-name="FREEДOM" tvg-logo="https://i.postimg.cc/yYWX8WLZ/FREEDOM-2026-728x122p-1.png" group-title="", 🇺🇦 FREEДOM®
-https://iptv.prosto.tv/id863/index.m3u8?secret=omykufic&21yo=1
+https://iptv.prosto.tv/id863/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2zMkLKc/XPONIKA-BINHN-2026-512x232p-01.pnggroup-title="",🇺🇦 Хроніка Війни ®
-https://iptv.prosto.tv/id506/index.m3u8?secret=omykufic&21yo=1
+https://iptv.prosto.tv/id506/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZqLrvKjm/NEWS-FRONT-2026-0p-02.png" group-title="",🇷🇺 FRONT NEWS®
 https://tv.2kita.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fym5vq72/Nastoasee-Vrema-2026-512wx512h-xs-0.png" group-title="",🇷🇺 Настоящее Время®
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="",СТС (HD)
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-{offset}&utcstart={timestamp}" tvg-id="tnt" tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 480p)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные",ТНТ (HD)
+
