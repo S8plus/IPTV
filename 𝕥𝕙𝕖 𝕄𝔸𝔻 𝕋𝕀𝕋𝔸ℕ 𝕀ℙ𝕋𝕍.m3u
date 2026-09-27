@@ -105,8 +105,8 @@ https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688794.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvgYSTQT/Iberalia-2024-01.png" group-title="",🇪🇸 IBERALIA®
 https://huhu.to/play/745432578/index.m3u8
 
-#EXTINF:-1 tvg-ID="CNN" tvg-name="CNN" tvg-logo="https://i.postimg.cc/WzZ9wyrq/CNN-Brasil-2026-512x342p-1.png" group-title="",🇧🇷 CNN Brasil®
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+#EXTINF:-1 tvg-ID="cnn.brasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="https://i.postimg.cc/WzZ9wyrq/CNN-Brasil-2026-512x342p-1.png" group-title="",🇧🇷 CNN Brasil®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74790.m3u8
 
 #EXTINF:-1  tvg-id="CNNPortugal.pt" tvg-logo="https://i.postimg.cc/nczrMt4Q/CNN-Portugal-2026-512x355p-01.png" group-title="",🇵🇹 CNN Portugal®
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
@@ -153,6 +153,9 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37114.m3u8
 #EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://i.postimg.cc/cHtxcM9G/Discovery-TURBO-2026-244x728p-1-0.png" group-title="",🇧🇷 DISCOVERY TURBO®
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="dreamworks.br" tvg-name="DreamWorks" tvg-logo="https://i.postimg.cc/SxbD8BW4/DREAMWORKS-2026-728x430p-01.png" group-title="",🇧🇷 DreamWorks®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/952168.m3u8
+
 #EXTINF:-1 tvg-ID="E!" tvg-name="E!" tvg-logo="https://i.postimg.cc/yYcj9QjH/E-2026-0p-0.png" group-title="",🇧🇷 E!®
 https://cdn-5.nxplay.com.br/E_BRASIL/tracks-v1a1/mono.m3u8
 
@@ -189,8 +192,8 @@ https://huhu.to/play/1502859990/index.m3u8
 #EXTINF:-1 tvg-ID="ION Television East HD" tvg-name="ION Television East HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18633_h15_ac.png" group-title="",🇺🇸 ION TV®
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j5Zqx3sX/MEGAPIX-2026-728x129p-01.png" group-title="",🇧🇷 MEGAPIX®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37072.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix [4K]" tvg-logo="https://i.postimg.cc/j5Zqx3sX/MEGAPIX-2026-728x129p-01.png" group-title="",🇧🇷 MegaPix [4K]®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/61844.m3u8
 
 #EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="",🇫🇮 National Geographic®
 https://solmu.tvkaista.net/national-geographic/live011777431606.m3u8?timestamp=2026-04-30-00-55&tz=Europe-Madrid
@@ -667,8 +670,7 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="",СТС (HD)
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-{offset}&utcstart={timestamp}" tvg-id="tnt" tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 480p)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-{offset}&utcstart={timestamp}" tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="",ТНТ (HD)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные",ТНТ (HD)
+
 
