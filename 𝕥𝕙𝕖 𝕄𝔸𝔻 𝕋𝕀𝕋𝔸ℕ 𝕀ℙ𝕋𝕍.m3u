@@ -210,8 +210,8 @@ https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q72GfQQK/PARAMOUNT-2024-0.png" group-title="",🇺🇸 PARAMOUNT®
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/65kHqLNs/SPACE-1-00.png" group-title="",🇧🇷 SPACE®
-https://cdn-5.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://i.postimg.cc/65kHqLNs/SPACE-1-00.png" group-title="",🇧🇷 SPACE® FHD
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41503.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxxSbmdV/STAR-Channel-2026-728x299p-01.png" group-title="",🇺🇸 StarChannel®
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
@@ -228,8 +228,14 @@ https://cdn-5.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://i.postimg.cc/63qGZ1FK/TNT-2024-1.png" group-title="",🇧🇷 TNT®
 https://cdn-5.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagizer.imageshack.com/img922/7130/TLpWfR.png" group-title="",🇪🇸 TeleCine Premium®
-https://watchbrasil.akamaized.net/dash/channels/telecinepremium/index.mpd?hdntl=exp=1757490424~acl=%2f*~data=hdntl~hmac=43d7e7b59aa2c834ce3621e5f00e193f9c4d72dec2bbd579daa02a5cee265f30
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="",🇧🇷 Telecine Action® [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74797.m3u8
+
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="",🇧🇷 Telecine Pipoca® FHD
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38416.m3u8
+
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium [4K]" tvg-logo="https://imagizer.imageshack.com/img922/7130/TLpWfR.png" group-title="",🇪🇸 TeleCine Premium® [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/64378.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5t8NPRjx/Universal-Premiere-2026-728x397p-01.png" group-title="",🇧🇷 UNIVERSAL®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/948017.m3u8
@@ -666,11 +672,46 @@ https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fym5vq72/Nastoasee-Vrema-2026-512wx512h-xs-0.png" group-title="",🇷🇺 Настоящее Время®
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="",СТС (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed III (2023) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-{offset}&utcstart={timestamp}" tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="",ТНТ (HD)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho (2016) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho no Multiverso da Loucura (2022) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed II  (2018) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Os MercenÃ¡rios 4 (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Os Mercenários 4 (2023) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/990398.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Pantera Negra (2018) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975334.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Pantera Negra: Wakanda para Sempre (2022) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/986740.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Predador: Assassino de Assassinos (2025) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/966069.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Predador: Terras Selvagens (2025) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/1016003.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Predadores (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Predadores (2025) [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/965543.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
