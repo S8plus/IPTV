@@ -111,6 +111,9 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74790.m3u8
 #EXTINF:-1  tvg-id="CNNPortugal.pt" tvg-logo="https://i.postimg.cc/nczrMt4Q/CNN-Portugal-2026-512x355p-01.png" group-title="",🇵🇹 CNN Portugal®
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN Espanhol HD" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Noticias",🇪🇸 CNN®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/81018.m3u8
+
 #EXTINF:-1 tvg-id="Euronews.es" tvg-name="Euronews" tvg-logo="https://i.postimg.cc/rsksQBLH/EURONEWS-2026-512x512p-01.png" group-title="",🇪🇸 EURONEWS®
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
@@ -234,7 +237,7 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74797.m3u8
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="",🇧🇷 Telecine Pipoca® FHD
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38416.m3u8
 
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium [4K]" tvg-logo="https://imagizer.imageshack.com/img922/7130/TLpWfR.png" group-title="",🇪🇸 TeleCine Premium® [4K]
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium [4K]" tvg-logo="https://imagizer.imageshack.com/img922/7130/TLpWfR.png" group-title="",🇧🇷 TeleCine Premium® [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/64378.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5t8NPRjx/Universal-Premiere-2026-728x397p-01.png" group-title="",🇧🇷 UNIVERSAL®
@@ -244,37 +247,40 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/948017.m3u8
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36930..m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="",🇧🇷 BAND SPORTS®
-https://cdn-3.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4y7C5KR7/TV-BAND-2026-2018-883x512p-0.png" group-title="",🇧🇷 BAND®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/36990.m3u8
 
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="https://i.postimg.cc/4y7C5KR7/TV-BAND-2026-2018-883x512p-0.png" group-title="",🇧🇷 BAND News®
-http://play.dnsrot.vip/live/gabriellopes10/hbemzv4hqt/38391.m3u8
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38391.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT®
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT SP®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/63772.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 TV GLOBO®
-https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 GLOBO TV Rio Sul®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/52547.m3u8
 
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews FHD" tvg-logo="https://i.postimg.cc/GpXv8cDJ/GLOBO-News-2026-728p-1.png" group-title="",🇧🇷 GloboNews®
-http://play.dnsrot.vip/live/gabriellopes10/hbemzv4hqt/38397.m3u8
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38397.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/mDKpT8KW/tv-Record-2026-512p-01.png" group-title="",🇧🇷 TV RECORD®
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/mDKpT8KW/tv-Record-2026-512p-01.png" group-title="",🇧🇷 TV RECORD Rio®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41521.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/FHc9B6yT/Record-News-2026-728x272p-01.png" group-title="",🇧🇷 RECORD NEWS® (nxplay)
 https://cdn-5.nxplay.com.br/RECORD_NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/FHc9B6yT/Record-News-2026-728x272p-01.png" group-title="",🇧🇷 RECORD NEWS®
-https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cwWs5dh/TV-BRASIL-2026-728x199p-01.png" group-title="",🇧🇷 TV BRASIL®
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="",🇧🇷 TV CULTURA®
 https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
+
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="https://i.postimg.cc/bJbHJXP9/Futura.png" group-title="",Futura FHD
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41481.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="",🇧🇷 TV Gazeta®
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
@@ -283,7 +289,7 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3N1vZRfS/Canal-UOL-2026-728x137p-01.png" group-title="",🇧🇷 UOL®
-https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/71488.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PJrb3YS0/WOOHOO-2026-728x167p-01.png" group-title="",🇧🇷 WOOHOO®
 http://gerenciar.vivatele.com/viva_padrao/viva2384/73.m3u8
@@ -291,14 +297,14 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/73.m3u8
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.postimg.cc/NFr8qpkF/Caze-TV-2026-512x278p-01.png" group-title="",🇧🇷 Cazé TV®
 https://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/100769.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HxsGGvLc/GE-TV-2026-512p-01.png" group-title="",🇧🇷 GE TV®
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" tvg-logo="https://i.postimg.cc/HxsGGvLc/GE-TV-2026-512p-01.png" group-title="",🇧🇷 GE TV [4K]®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/956911.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nhQ02H7F/GEN-TV-2025-512-X512p-1png.png" group-title="",🇦🇷 GENTV®
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RVX66KTB/GEN-2026-512x323p-01.png" group-title="",🇵🇾 GEN® 🏆
-https://no.gendigi.net/origin-proxy/chunklist.m3u8
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1372937118.m3u8?k=800b3ed64b004a21f5feea4db6af505ed38f40d2ee4ec1a557ea71ba468dd792&exp=1790642526
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://servidor.vivatele.com/tv/logos/geekdot.jpeg" group-title="",🇧🇷 GEEKDOT®
 http://gerenciar.vivatele.com/viva_padrao/viva2384/71.m3u8
@@ -311,6 +317,9 @@ https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688897.m3u8
 
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.postimg.cc/KYTfNPt6/SIC-2026-728x314p-01.png" group-title="",🇵🇹 SIC®
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="" group-title="",🇧🇴 UNITEL®
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/6928b14aaa768aad947bf65d/publish/media_1800.m3u8?aid=69132f19f5398246a0193eb6&dnt=true&dual_render=1&uid=9aRdDbaVZCqpciW3uyAgaPwoqIa3GMd5&sid=s7B9x4FeBSj4IadHe1qRtKjicHrOfbPW&pid=7s5azeRXiqOfDwTB655FX9ImCX4ly3cb&ref=mdstrm.com&ext_pb=0&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1790724867765&ot=Owvg9KlI8P7MPoCmuYr-qA&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y8Nq5xmK/VOS-TV-2026-728x305p-01.png" group-title="",🇧🇴 VOS TV®
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
@@ -366,6 +375,12 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951563/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="99951359" tvg-name="Big 12 Studios" tvg-logo="https://i.postimg.cc/43xfMfDX/BIG-12-Studios-2026-728x510p-01.png" tvg-name="Big 12 Studios" group-title="",🇺🇸 Big 12 Studios®
 https://dbrb49pjoymg4.cloudfront.net/10001/99951359/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951359&ads.xumo_streamId=99951359&ads.channelId=99951359
 
+#EXTINF:-1 tvg-id="JOGOSDEHOJE.br" tvg-name="Jogos de Hoje" tvg-logo="https://i.postimg.cc/5tVr1m8W/JOGOS-de-HOJE-2026-728x485p-1.png" group-title="",🇧🇷 Jogos de Hoje®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/194567.m3u8
+
+#EXTINF:-1 tvg-id="[PE] TV PerÃº" tvg-name="CONCACAF TV" tvg-logo="https://i.postimg.cc/L66qndB2/Concacaf.png" group-title="",🇺🇸 CONCACAF TV®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/956911.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L59tR7YV/ESPN-TV-2026-728x315p-01.png" group-title="",🇧🇷 ESPN®
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
@@ -379,13 +394,13 @@ https://cdn-5.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
 https://cdn-5.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L59tR7YV/ESPN-TV-2026-728x315p-01.png" group-title="",🇧🇷 ESPN 4® 🔒
-https://cdn-5.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215401.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SbRfGQL/SPORTV-2026-728x252p-01.png" group-title="",🇧🇷 SPORTV®
-https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SbRfGQL/SPORTV-2026-728x252p-01.png" group-title="",🇧🇷 SporTV®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37256.m3u8
 
-#EXTINF:-1 tvg-ID="ESPNU" tvg-name="ESPNU" tvg-logo="https://i.postimg.cc/Y0Sr2mCG/ESPN-U-2026-512p-01.png" group-title="",🇺🇸 ESPN U®
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 [4K]" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="",🇧🇷 SporTV 2 [4K]
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215402.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/135284mL/Eurosport-1-hd-00.png" group-title="",🇪🇸 EUROSPORT 1 HD®
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/index.m3u8
