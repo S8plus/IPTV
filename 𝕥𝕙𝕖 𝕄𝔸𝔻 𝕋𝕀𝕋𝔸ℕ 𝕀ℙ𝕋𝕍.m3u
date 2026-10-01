@@ -111,7 +111,7 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74790.m3u8
 #EXTINF:-1  tvg-id="CNNPortugal.pt" tvg-logo="https://i.postimg.cc/nczrMt4Q/CNN-Portugal-2026-512x355p-01.png" group-title="",🇵🇹 CNN Portugal®
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
-#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN Espanhol HD" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Noticias",🇪🇸 CNN®
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN Espanhol HD" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="",🇺🇸 CNN®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/81018.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.es" tvg-name="Euronews" tvg-logo="https://i.postimg.cc/rsksQBLH/EURONEWS-2026-512x512p-01.png" group-title="",🇪🇸 EURONEWS®
@@ -678,7 +678,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEДOM" tvg-name="FREEДOM" tvg-logo="https://i.postimg.cc/yYWX8WLZ/FREEDOM-2026-728x122p-1.png" group-title="", 🇺🇦 FREEДOM®
 https://iptv.prosto.tv/id863/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2zMkLKc/XPONIKA-BINHN-2026-512x232p-01.pnggroup-title="",🇺🇦 Хроніка Війни ®
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2zMkLKc/XPONIKA-BINHN-2026-512x232p-01.pnggroup-title="",🇺🇦 Хроніка Війни®
 https://iptv.prosto.tv/id506/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZqLrvKjm/NEWS-FRONT-2026-0p-02.png" group-title="",🇷🇺 FRONT NEWS®
@@ -686,6 +686,10 @@ https://tv.2kita.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fym5vq72/Nastoasee-Vrema-2026-512wx512h-xs-0.png" group-title="",🇷🇺 Настоящее Время®
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="",🇧🇷 Masters of the Universe 🇺🇸 (2026)
+https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed III (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
