@@ -13,30 +13,30 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://i.postimg.cc/rss92H6z/Antena-3-1.png" group-title="",🇪🇸 ANTENA 3®  
-https://atres-live.atresmedia.com/a39ba45c49260e0b970e262f1092bb1a6b6e8adb_ES_1781984648_1782013388/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73278.m3u8
 
 #EXTINF:-1 tvg-id="CUATRO " tvg-name="CUATRO " tvg-logo="https://i.postimg.cc/kG2hvGgj/cuatro-2.png" group-title="",🇪🇸 CUATRO® 
-https://huhu.to/play/4194733823/index.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73279.m3u8
 
 #EXTINF:-1 tvg-id="TELECINCO" tvg-name="TELECINCO" tvg-logo="https://i.postimg.cc/prV5w5FZ/Telecinco-1-00.png" group-title="",🇪🇸 TELECINCO® 
-https://huhu.to/play/1024256819/index.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73280.m3u8
 
 #EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA" tvg-logo="https://i.postimg.cc/x1JpDy6G/La-Sexta-2025-00.png" group-title="",🇪🇸 LA SEXTA®
-https://atres-live.atresmedia.com/b53b40f92bccf01892daef5da56a2aa062d469df_ES_1781984129_1782012869/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73281.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W304p2pn/ANOVE-TV-2026-512wx394h-xs-0.png" group-title="",🇪🇸 A NOVE®
 https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
 
 #EXTINF:-1 tvg-id="TEN " tvg-name="TEN " tvg-logo="https://i.postimg.cc/d1nbrc66/TEN-2025-728-X378p-01.png" group-title="",🇪🇸 TEN®  
-https://huhu.to/play/2537320036/index.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73289.m3u8
 
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE " tvg-logo="https://i.postimg.cc/L8Lr19WQ/TRECE-2026-728x165p-1.png" group-title="",🇪🇸 TRECE® 
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2850.m3u8
 
 #EXTINF:-1 tvg-id="TVG.es" tvg-name="TVG" tvg-logo="https://i.postimg.cc/qvjMY8k2/pngkey-com-tv-png-8035982.png" group-title="",🇪🇸 TVG® 
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2jXpKs7W/TVG2-2026-728wx434h-xs-1.png" group-title="",🇪🇸 TVG2®
+#EXTINF:-1 tvg-id="TVG2" tvg-name="TVG2" tvg-logo="https://i.postimg.cc/2jXpKs7W/TVG2-2026-728wx434h-xs-1.png" group-title="",🇪🇸 TVG2®
 https://crtvg-tvg2.flumotion.cloud/crtvg/tvg2_high/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yNfhsGWM/tvferrol-2025-0.png" group-title="",🇪🇸 TV FERROL® 
@@ -54,41 +54,53 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://i.postimg.cc/RhrmtbDp/Teledeporte-2024-1-1.png" group-title="",🇪🇸 TDP® 🔒
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://i.postimg.cc/6QmKD8C8/DKISS-01.png" group-title="",🇪🇸 DKISS®
-https://huhu.to/play/4289152978/index.m3u8
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.postimg.cc/T32LhDNv/DMAX-Discovery-1.png" group-title="",🇮🇹 DMAX®  
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-
-#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX" tvg-logo="https://i.postimg.cc/QthRrjxm/NEOX-1.png" group-title="",🇪🇸 NEOX® 
-https://huhu.to/play/1629852623/index.m3u8
-
-#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" tvg-logo="https://i.postimg.cc/g0sG50D6/MEGA-2025-728-X208p-01.png" group-title="",🇪🇸 MEGA®
-https://atres-live.atresmedia.com/62ae23d578c5be340199f6a6c320561100b6c9b2_ES_1781982024_1782010764/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KcQkV4ns/FDF-512-X512p-01.png" group-title="",🇪🇸 FDF® 
-https://huhu.to/play/4125810523/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/056jtZyr/Energy-512x512p-01.png" group-title="",🇪🇸 ENERGY® 
-https://huhu.to/play/643888368/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prDtwmSc/Divinity-512x512p-01.png" group-title="",🇪🇸 DIVINITY®
-https://huhu.to/play/4187786300/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RF3sQBZk/CALLE-1-LOGO-2024-0.png" group-title="",🇪🇸 CALLE 13®
-https://huhu.to/play/1343655533/index.m3u8
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series á´´á´°" tvg-logo="https://i.postimg.cc/t4ghgD7N/Diseno-sin-titulo-(4).png" group-title="",A3Series®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2847.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/xjtcB0hr/be-mad-logo-01.webp" group-title="",🇪🇸 bemad® 
-https://huhu.to/play/2840476606/index.m3u8
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73293.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQVyjnNR/mt-MAD-2025-2025-1.webp" group-title="",🇪🇸 mtmad® 
-https://photocalltv.org/h4tw/txt/mt_mtmad-24h.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO " tvg-logo="https://i.postimg.cc/N0qfnjhF/Diseno-sin-titulo-(7).png" group-title="",🇪🇸 COSMO®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2829.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fbVHtKsc/TORO-599p-2025-01.png" group-title="",🇪🇸 EL TORO® 
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK á¶ á´´á´°" tvg-logo="https://i.postimg.cc/v8x10BND/Whats-App-Image-2026-06-22-at-13-15-52-(17).jpg" group-title="",🇪🇸 DARK®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/624.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prDtwmSc/Divinity-512x512p-01.png" group-title="",🇪🇸 DIVINITY®
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/73291.m3u8
+
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://i.postimg.cc/6QmKD8C8/DKISS-01.png" group-title="",🇪🇸 DKISS®
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/73290.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.postimg.cc/T32LhDNv/DMAX-Discovery-1.png" group-title="",🇪🇸 DMAX®  
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/73294.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/056jtZyr/Energy-512x512p-01.png" group-title="",🇪🇸 ENERGY® 
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/73284.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KcQkV4ns/FDF-512-X512p-01.png" group-title="",🇪🇸 FDF® 
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/78781.m3u8
+
+#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" tvg-logo="https://i.postimg.cc/g0sG50D6/MEGA-2025-728-X208p-01.png" group-title="",🇪🇸 MEGA®
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/73292.m3u8
+
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX" tvg-logo="https://i.postimg.cc/QthRrjxm/NEOX-1.png" group-title="",🇪🇸 NEOX® 
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/73283.m3u8
+
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova " tvg-logo="https://i.postimg.cc/v8tv04n1/Diseno-sin-titulo-(11).png" group-title="",🇪🇸 Nova®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73285.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RF3sQBZk/CALLE-1-LOGO-2024-0.png" group-title="",🇪🇸 CALLE 13®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2826.m3u8
+
+#EXTINF:-1 tvg-id="VinTV" tvg-name="Vin tv" tvg-logo="https://i.postimg.cc/bJDwsSjg/Diseno-sin-titulo-(19).png" group-title="",🇪🇸 Vin tv®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/168944.m3u8
+
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/fbVHtKsc/TORO-599p-2025-01.png" group-title="",🇪🇸 EL TORO® 
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC7ynnMH/A3-S-512x354p-01.png" group-title="",🇪🇸 A3S®
-https://atres-live.atresmedia.com/25c4cffa82d26446882d1ecedbe11de1fdcb9bee_ES_1781979242_1782007982/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO " tvg-logo="https://i.postimg.cc/DyHmLKgg/Diseno-sin-titulo-(2).png" group-title="",🇪🇸 ONETORO®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/21468.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.fr" tvg-name="Telemadrid" tvg-logo="https://i.postimg.cc/Kc7w1T7m/Telemadrid-2025-512x488p-0.png" group-title="",🇪🇸 Telemadrid® 🔒
 https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
@@ -102,8 +114,20 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/k5s0r2pp/Caza-y-Pesca-728p-1.png" group-title="",🇵🇹 Caza y Pesca®
 https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688794.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvgYSTQT/Iberalia-2024-01.png" group-title="",🇪🇸 IBERALIA®
-https://huhu.to/play/745432578/index.m3u8
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA á¶ á´´á´°" tvg-logo="https://i.postimg.cc/8c7z3yHH/Diseno-sin-titulo-(12).png" group-title="",🇪🇸 CAZA Y PESCA®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78842.m3u8
+
+#EXTINF:-1 tvg-id="CazavisiÃ³n" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/JzZcvxYR/Diseno-sin-titulo-(1).png" group-title="",🇪🇸 CAZAVISION®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/46733.m3u8
+
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://i.postimg.cc/zvgYSTQT/Iberalia-2024-01.png" group-title="",🇪🇸 IBERALIA®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78833.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/kG2Wcvtq/Diseno-sin-titulo-(8).png" group-title="",🇪🇸 IBERALIA 100% CAZA®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/31803.m3u8
+
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA 100% PESCA á¶ á´´á´°" tvg-logo="https://i.postimg.cc/j2nRvDqd/Diseno-sin-titulo-(7).png" group-title="",🇪🇸 IBERALIA 100% PESCA®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78841.m3u8
 
 #EXTINF:-1 tvg-ID="cnn.brasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="https://i.postimg.cc/WzZ9wyrq/CNN-Brasil-2026-512x342p-1.png" group-title="",🇧🇷 CNN Brasil®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74790.m3u8
@@ -117,26 +141,62 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/81018.m3u8
 #EXTINF:-1 tvg-id="Euronews.es" tvg-name="Euronews" tvg-logo="https://i.postimg.cc/rsksQBLH/EURONEWS-2026-512x512p-01.png" group-title="",🇪🇸 EURONEWS®
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png" group-title="",🇵🇹 ARTV® 🔒
-https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="Movistar Plus + á¶ á´´á´°" tvg-logo="https://i.postimg.cc/MTvwKnQV/Whats-App-Image-2026-06-22-at-13-15-52-(18).jpg" group-title="",🇪🇸 Movistar Plus +®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/756.m3u8
 
-#EXTINF:-1 channel-id="409951b52fa75a1684ba8efe5b724e91" tvg-id="409951b52fa75a1684ba8efe5b724e91" tvg-chno="257" tvg-name="ACC Digital Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="",🇺🇸 ACC NETWORK®
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AcciÃ³n por M+ á¶ á´´á´°" tvg-logo="https://i.postimg.cc/HLWHRZs1/Whats-App-Image-2026-06-22-at-13-15-52-(4).jpg" group-title="",🇪🇸 AcciÃ³n por M+®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78792.m3u8
+
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES" tvg-logo="https://i.postimg.cc/4dB1w32C/Diseno-sin-titulo-(6).png" group-title="",🇪🇸 M+ DOCUMENTALES®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/62966.m3u8
+
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA" tvg-logo="https://i.postimg.cc/1zRP2C5x/Whats-App-Image-2026-06-22-at-13-15-52-(5).jpg" group-title="",🇪🇸 M+ DRAMA®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78789.m3u8
+
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="https://i.postimg.cc/yxQrJxhM/Diseno-sin-titulo-(6).png" group-title="",🇪🇸 M+ Estrenos®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/238458.m3u8
+
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE HD" tvg-logo="https://i.postimg.cc/nhSp8KsX/Whats-App-Image-2026-06-22-at-13-15-52-(20).jpg" group-title="",🇪🇸 M+ INDIE®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/41510.m3u8
+
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://i.postimg.cc/V6dwLJCW/Whats-App-Image-2026-06-22-at-13-15-52-(19).jpg" group-title="",🇪🇸 M+ Originales
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/46485.m3u8
+
+#EXTINF:-1 tvg-id="M+ Cero" tvg-name="M+ CERO" tvg-logo="https://i.postimg.cc/15Dq529q/Diseno-sin-titulo-(38).png" group-title="",🇪🇸 M+ CERO®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/542879.m3u8
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://i.postimg.cc/1zWPQGfg/Whats-App-Image-2026-06-22-at-13-15-52-(14).jpg" group-title="",🇪🇸 SOMOS®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78793.m3u8
 
 #EXTINF:-1 tvg-id="99951471" tvg-name="A&E Crime 360" tvg-logo="https://i.postimg.cc/L595GZwn/A-E-Crime-2026-738x378p-01.png" group-title="",🇧🇷 A&E®
 https://cdn-5.nxplay.com.br/AeE_BRASIL_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://i.postimg.cc/0y1SG1yQ/AMC-2019-728x411p-01.png" group-title="",🇧🇷 AMC®
-https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://i.postimg.cc/0y1SG1yQ/AMC-2019-728x411p-01.png" group-title="",🇪🇸 AMC®
+http://tuercebotas.com/live/josemaripi/rtMAxnMh2zd9/2832.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgpx.com/en/LzvXcwhwyJ49.webp" group-title="",🇧🇷 AXN®
-https://cdn-5.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK" tvg-logo="https://i.postimg.cc/7Z1NCbNw/Diseno-sin-titulo-(1).png" group-title="",🇪🇸 AMC BREAK®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/23973.m3u8
+
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME  " tvg-logo="https://i.postimg.cc/q7LQFghH/Diseno-sin-titulo-(6).png" group-title="",🇪🇸 AMC CRIME®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/24945.m3u8
+
+#EXTINF:-1 tvg-id="AMC Living" tvg-name="AMC LIVING" tvg-logo="https://i.postimg.cc/BnqXZvYr/Diseno-sin-titulo-(36).png" group-title="",🇪🇸 AMC LIVING®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/427408.m3u8
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SELEKT" tvg-logo="https://i.postimg.cc/Y0KC52mC/Diseno-sin-titulo-(35).png" group-title=",🇪🇸 AMC SELEKT®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/427405.m3u8
+
+#EXTINF:-1 tvg-id="AMC Western" tvg-name="AMC Western " tvg-logo="https://i.postimg.cc/q7NBg68b/Diseno-sin-titulo-(34).png" group-title="",🇪🇸 AMC Western®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/418942.m3u8
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN " tvg-logo="https://i.postimg.cc/cCrSjxTp/Whats-App-Image-2026-06-22-at-13-15-52-(1).jpg" group-title="",🇪🇸 AXN®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2815.m3u8
+
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES " tvg-logo="https://i.postimg.cc/xCdrxwdH/Diseno-sin-titulo-(4).png" group-title="",🇪🇸 AXN MOVIES®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2823.m3u8
 
 #EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/YCqCgx2Z/Animal-Planet-2004-00.png" group-title="",🇧🇷 Animal Planet®
 https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-
-#EXTINF:-1 tvg-ID="Bravo" tvg-name="Bravo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="",🇺🇸 BRAVO®
-https://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-ID="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="",🇺🇸 CINEMAX®
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -155,6 +215,9 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37114.m3u8
 
 #EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://i.postimg.cc/cHtxcM9G/Discovery-TURBO-2026-244x728p-1-0.png" group-title="",🇧🇷 DISCOVERY TURBO®
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO " tvg-logo="https://img.listaiptvhd.live/images/kYqXVyl.png" group-title="",🇪🇸 DISCOVERY TURBO®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/537072.m3u8
 
 #EXTINF:-1 tvg-id="dreamworks.br" tvg-name="DreamWorks" tvg-logo="https://i.postimg.cc/SxbD8BW4/DREAMWORKS-2026-728x430p-01.png" group-title="",🇧🇷 DreamWorks®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/952168.m3u8
@@ -183,8 +246,8 @@ http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-ID="HBO Family East" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="",🇺🇸 HBO Family®
 http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="https://i.postimg.cc/ncnCgG4B/Canal-Historia-3.png" group-title="",🇧🇷 HISTORY®
-https://cdn-5.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="https://i.postimg.cc/ncnCgG4B/Canal-Historia-3.png" group-title="",🇪🇸 HISTORY®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78837.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/15RKtSQj/HISTORY-2-2024-01.png" group-title="",🇧🇷 HISTORY 2®
 https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
@@ -198,14 +261,20 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix [4K]" tvg-logo="https://i.postimg.cc/j5Zqx3sX/MEGAPIX-2026-728x129p-01.png" group-title="",🇧🇷 MegaPix [4K]®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/61844.m3u8
 
-#EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="",🇫🇮 National Geographic®
-https://solmu.tvkaista.net/national-geographic/live011777431606.m3u8?timestamp=2026-04-30-00-55&tz=Europe-Madrid
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="https://i.postimg.cc/HsmjgqcC/MTV-512p-1.png" group-title="",🇬🇧 MTV® 🔒
+http://92.114.85.52:1453/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-ID="Nat Geo WILD" tvg-name="Nat Geo WILD" tvg-logo="https://i.postimg.cc/pdYCQDkq/Nat-Geo-WIL-2024-0.png" group-title="",🇺🇸 Nat Geo WILD®
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="PT | MTV HD" tvg-name="MTV" tvg-logo="https://i.postimg.cc/d1L9HYb1/Diseno-sin-titulo-(9).png" group-title="",🇪🇸 MTV®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/139343.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59KPnDc7/ODISEA-728-X185p-01.png" group-title="",🇪🇸 ODISEA®
-https://huhu.to/play/406958643/index.m3u8
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="",🇪🇸 National Geographic®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78834.m3u8
+
+#EXTINF:-1 tvg-ID="Nat Geo WILD" tvg-name="Nat Geo WILD" tvg-logo="https://i.postimg.cc/pdYCQDkq/Nat-Geo-WIL-2024-0.png" group-title="",🇪🇸 Nat Geo WILD®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78836.m3u8
+
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA ESPAÃ‘A FHD" tvg-logo="https://i.postimg.cc/59KPnDc7/ODISEA-728-X185p-01.png" group-title="",🇪🇸 ODISEA®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78835.m3u8
 
 #EXTINF:-1 tvg-ID="Oxygen True Crime" tvg-name="Oxygen True Crime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="",🇺🇸 Oxygen®
 https://fl1.moveonjoy.com/OXYGEN/index.m3u8
@@ -219,11 +288,14 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxxSbmdV/STAR-Channel-2026-728x299p-01.png" group-title="",🇺🇸 StarChannel®
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="SYFY" tvg-name="SYFY" tvg-logo="https://i.postimg.cc/XJhjnWbg/SYFY-Boxed-White-Small-1.webp" group-title="",🇺🇸 SyFy®
-https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANEL " tvg-logo="https://i.postimg.cc/yxbv15sq/Diseno-sin-titulo-(20).png" group-title="",🇪🇸 STAR CHANEL®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78895.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTVbgsyD/TCM-logo.png" group-title="",🇺🇸 TCM®
-http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-ID="SYFY" tvg-name="SYFY" tvg-logo="https://i.postimg.cc/XJhjnWbg/SYFY-Boxed-White-Small-1.webp" group-title="",🇪🇸 SyFy®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2835.m3u8
+
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM á¶ á´´á´°" tvg-logo="https://i.postimg.cc/FR7vsYLR/Whats-App-Image-2026-06-22-at-13-15-52-(16).jpg" group-title="",🇪🇸 TCM®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78787.m3u8
 
 #EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://i.postimg.cc/90yFz31M/TLC-2024-2.png" group-title="",🇧🇷 TLC®
 https://cdn-5.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
@@ -244,7 +316,10 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/64378.m3u8
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/948017.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zfzVJkMs/Warner-Channel-512x493p-1.png" group-title="",🇧🇷 WARNER®
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36930..m3u8
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36930.m3u8
+
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM á¶ á´´á´°" tvg-logo="https://i.postimg.cc/rppsxF4w/Whats-App-Image-2026-06-22-at-13-15-52-(12).jpg" group-title="",🇪🇸 XTRM®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78785.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="",🇧🇷 BAND SPORTS®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
@@ -345,9 +420,6 @@ http://92.114.85.52:1453/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="99951231" tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/Cxngkm7x/BBC-EARTH-2026-728x353p-1.png" group-title="",🇬🇧 BBC EARTH® 🔒
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="https://i.postimg.cc/HsmjgqcC/MTV-512p-1.png" group-title="",🇬🇧 MTV® 🔒
-http://92.114.85.52:1453/play/a022/index.m3u8
-
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://i.postimg.cc/0NFsjTNC/TF1-2026-728x285p-01.png" group-title="",🇫🇷 TF1®
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8?wowzasessionid=@iprtlk
 
@@ -402,11 +474,11 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37256.m3u8
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 [4K]" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="",🇧🇷 SporTV 2 [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215402.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/135284mL/Eurosport-1-hd-00.png" group-title="",🇪🇸 EUROSPORT 1 HD®
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="DE | Eurosport 1" tvg-logo="https://i.postimg.cc/135284mL/Eurosport-1-hd-00.png" group-title="",🇪🇸 EUROSPORT 1 HD®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78844.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6q5Tk90C/Eurosport-2-hd-0.png" group-title="",🇪🇸  EUROSPORT 2 HD®
-https://huhu.to/play/3620494453/index.m3u8
+#EXTINF:-1 tvg-id="DE | Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://i.postimg.cc/6q5Tk90C/Eurosport-2-hd-0.png" group-title="",🇪🇸  EUROSPORT 2 HD®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78889.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2505VHnZ/FSM-2026-728wx258h-0.png" group-title="",🇪🇸 FSM®
 https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
@@ -414,11 +486,17 @@ https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/66yS8sJ8/MATC-2026-512x143p-01.png" group-title="",🇷🇺 МАТЧ!®
 https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/Qwgun5Jc8pMzMcexIsbzFA/1783626620/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 
-#EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="932" tvg-name="Top Barça" tvg-logo="https://i.postimg.cc/G35pyfx0/FCB-2025-01.png" group-title="",🇪🇸 BARÇA TV® 
+#EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="932" tvg-name="Top Barça" tvg-logo="https://i.postimg.cc/G35pyfx0/FCB-2025-01.png" group-title="",🇪🇸 BARÇA TV®
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="99951381" tvg-name="Real Madrid TV" tvg-logo="https://i.postimg.cc/gjy3m6QL/REAL-MADRID-TV-2025-1-0-1.png" group-title="",🇪🇸 REAL MADRID® 
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES| BETIS TV" tvg-logo="https://i.postimg.cc/tR6cp3cX/Whats-App-Image-2026-06-22-at-13-43-23-(3).jpg" group-title="",🇪🇸 BETIS TV®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78883.m3u8
+
+#EXTINF:-1 tvg-id="99951381" tvg-name="Real Madrid TV" tvg-logo="https://i.postimg.cc/gjy3m6QL/REAL-MADRID-TV-2025-1-0-1.png" group-title="",🇪🇸 REAL MADRID®
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="PTV Sevilla" tvg-name="SEVILLA TV" tvg-logo="" group-title="",🇪🇸 SEVILLA TV®
+http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/708231.m3u8
 
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="beIN SPORTS Xtra" tvg-logo="https://i.postimg.cc/ydhhCxfx/be-IN-Sports-XTRA-2026-512x445p-01.png" group-title="",🇪🇸 beIN Sports XTRA® 
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
@@ -688,8 +766,59 @@ https://tv.2kita.com/stream/index.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="",🇧🇷 Masters of the Universe 🇺🇸 (2026)
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Filmes | 4K UHD",Altas capacidades (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Alter ego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/kiTTKUXoX7uHQYUoNBYqOjEY8KD.jpg" group-title="Filmes | 4K UHD",Alter ego (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722402.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Filmes | 4K UHD",Avatar: Fuego y ceniza (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Filmes | 4K UHD",Cortafuego (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548738.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste de Prada 2 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg" group-title="Filmes | 4K UHD",El diablo viste de Prada 2 (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719457.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El extranjero (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n7frRF1nA8JLoGk4enOSlgpH27R.jpg" group-title="Filmes | 4K UHD",El extranjero (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548768.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="He-Man y los Masters del Universo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6kqScyPEsn6akDS5HyPf9jE4Od.jpg" group-title="Filmes | 4K UHD",He-Man y los Masters del Universo (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548825.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Filmes | 4K UHD",🇧🇷 Masters of the Universe 🇺🇸 (2026)
 https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Filmes | 4K UHD",La Lucha (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Filmes | 4K UHD",La muerte de Robin Hood (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Â¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xC5IfnCekweHkTFjqQsMOC1gca.jpg" group-title="Filmes | 4K UHD",¡La novia! (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/549111.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Filmes | 4K UHD",La venganza de Popeye (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La vida de Chuck (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg" group-title="Filmes | 4K UHD",La vida de Chuck (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548910.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Labyrinth (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg" group-title="Filmes | 4K UHD",Labyrinth (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548914.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Filmes | 4K UHD",Los Cuatro Fantasticos: Primeros pasos (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Los miserables. El origen (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSFPgT9nMHNwjduJcPe8KXyu475.jpg" group-title="Filmes | 4K UHD",Los miserables. El origen (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548930.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi perro y yo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bEdo7mI4gte9So1vsY3AEfpzmGg.jpg" group-title="Filmes | 4K UHD",Mi perro y yo (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548943.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed III (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
