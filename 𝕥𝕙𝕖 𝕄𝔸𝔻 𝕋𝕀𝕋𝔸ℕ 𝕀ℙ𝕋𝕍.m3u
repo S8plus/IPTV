@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=" https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://epg.pw/xmltv/epg_BR.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml.gz" refresh="3600"
 
-#EXTINF:-1 tvg-id="" tvg-name="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-logo="https://imgpx.com/en/voDngB01CrQW.png" group-title="",🇺🇸 𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ 🇺🇸
+#EXTINF:-1 tvg-id="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-name="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-logo="https://imgpx.com/en/voDngB01CrQW.png" group-title="🇧🇷SAFER🇧🇷",🇺🇸 𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ 🇺🇸
 https://www.dropbox.com/scl/fi/23xyajrji20qnj4d40zd8/PS4-Home-Screen-Music-sUOzplfB9ps.mp3?rlkey=vsuc73ru0dr05cghekdmrleo2&st=y003vagu&dl=1
 
 #EXTINF:-1 tvg-id="Fireplace 4K" tvg-name="Fireplace 4K" tvg-logo="https://imgpx.com/en/D9XdtPHhIE4z.webp" group-title="",🇺🇸 Fireplace 4K®
