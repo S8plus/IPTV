@@ -54,16 +54,16 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://i.postimg.cc/RhrmtbDp/Teledeporte-2024-1-1.png" group-title="",🇪🇸 TDP® 🔒
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series" tvg-logo="https://i.postimg.cc/t4ghgD7N/Diseno-sin-titulo-(4).png" group-title="",🇪🇸 A3Series®
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" tvg-logo="https://i.postimg.cc/pL2wrqN0/Atreseries728p.png" group-title="",🇪🇸 A3Series®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2847.m3u8
 
 #EXTINF:-1 tvg-id="Be Mad" tvg-name="BeMad " tvg-logo="https://i.postimg.cc/xjtcB0hr/be-mad-logo-01.webp" group-title="",🇪🇸 bemad® 
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/73293.m3u8
 
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO " tvg-logo="https://i.postimg.cc/N0qfnjhF/Diseno-sin-titulo-(7).png" group-title="",🇪🇸 COSMO®
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO " tvg-logo="https://i.postimg.cc/PfQKJhtt/COSMO728p.png" group-title="",🇪🇸 COSMO®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2829.m3u8
 
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://i.postimg.cc/v8x10BND/Whats-App-Image-2026-06-22-at-13-15-52-(17).jpg" group-title="",🇪🇸 DARK®
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://i.postimg.cc/gk6J4cnr/DARK728p.png" group-title="",🇪🇸 DARK®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/624.m3u8
 
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity " tvg-logo="https://i.postimg.cc/prDtwmSc/Divinity-512x512p-01.png" group-title="",🇪🇸 DIVINITY®
@@ -354,7 +354,7 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="",🇧🇷 TV CULTURA®
 https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="https://i.postimg.cc/bJbHJXP9/Futura.png" group-title="",Futura FHD
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura FHD" tvg-logo="https://i.postimg.cc/bJbHJXP9/Futura.png" group-title="",Futura FHD
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41481.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="",🇧🇷 TV Gazeta®
