@@ -768,8 +768,8 @@ https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fym5vq72/Nastoasee-Vrema-2026-512wx512h-xs-0.png" group-title="",🇷🇺 Настоящее Время®
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Mister Olympia (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Filmes | 4K UHD",🇺🇸 Mister Olympia® (2026)
+https://vz-9ccf81e0-a41.b-cdn.net/5396b0fd-4ced-45d8-bda0-08dc4d878c6d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Filmes | 4K UHD",Altas capacidades (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
