@@ -426,6 +426,9 @@ http://92.114.85.52:1453/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="99951231" tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/Cxngkm7x/BBC-EARTH-2026-728x353p-1.png" group-title="",🇬🇧 BBC EARTH® 🔒
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rFXyj18r/DATING-MAKED-(1).png" group-title="",🇬🇧 DATING NAKED®
+https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://i.postimg.cc/0NFsjTNC/TF1-2026-728x285p-01.png" group-title="",🇫🇷 TF1®
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8?wowzasessionid=@iprtlk
 
@@ -440,6 +443,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgpx.com/en/VfqNYK2CbzA7.webp" group-title="",🇨🇳 Hunan TV 4K®
 https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YqYBb0R6/DRAGON-4K.png" group-title="",🇨🇳 东方卫视 4K®
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cJ0ywQhJ/Canal-Claro-tv-XXVI-982-280p-01.png" group-title="",🇲🇽 CANAL CLARO®
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
