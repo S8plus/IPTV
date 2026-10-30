@@ -780,6 +780,9 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mister Olympia (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Filmes | 4K UHD",🇺🇸 Mister Olympia® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/f632e947-bb92-4cb0-a40b-8e136bca2291/1080p/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron (2013)" tvg-logo="https://i.postimg.cc/2jJJzPHs/Generation-Iron.png" group-title="Filmes | 4K UHD",🇺🇸 Generation Iron® (2013)
+https://vz-8fe26208-8ed.b-cdn.net/3a00617f-69bc-4326-afe0-c5e8eeea23a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Filmes | 4K UHD",Altas capacidades (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
 
@@ -788,6 +791,9 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722402.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Filmes | 4K UHD",Avatar: Fuego y ceniza (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Filmes | 4K UHD",Conan,el barbaro (1982)
+https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vwtQwywduJfG50SrxlhalpXsUx.jpg" group-title="Filmes | 4K UHD",Conan,el destructor (1984)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/629693.mkv
@@ -813,7 +819,7 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Filmes | 4K UHD",La muerte de Robin Hood (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Â¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xC5IfnCekweHkTFjqQsMOC1gca.jpg" group-title="Filmes | 4K UHD",¡La novia! (2026)
+#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xC5IfnCekweHkTFjqQsMOC1gca.jpg" group-title="Filmes | 4K UHD",¡La novia! (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/549111.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Filmes | 4K UHD",La venganza de Popeye (2025)
@@ -844,10 +850,13 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho no Multiverso da Loucura (2022) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2088) [4K]" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Filmes | 4K UHD",The Incredible Hulk (2008) [4K]
+https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed II  (2018) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Os MercenÃ¡rios 4 (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Os Mercenários 4 (2023) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Os Mercenários 4 (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/990398.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Pantera Negra (2018) [4K]
