@@ -804,8 +804,11 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Filmes | 4K UHD",Conan,el barbaro (1982)
 https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vwtQwywduJfG50SrxlhalpXsUx.jpg" group-title="Filmes | 4K UHD",Conan,el destructor (1984)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/629693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Filmes | 4K UHD",Conan,el destructor (1984)
+https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="" group-title="Filmes | 4K UHD",Predator (1984)
+https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Filmes | 4K UHD",Cortafuego (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548738.mkv
@@ -849,9 +852,12 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548930.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mi perro y yo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bEdo7mI4gte9So1vsY3AEfpzmGg.jpg" group-title="Filmes | 4K UHD",Mi perro y yo (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548943.mkv
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed III (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Deadpool vs. Wolverine (2025) [4K]
+https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho (2016) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
