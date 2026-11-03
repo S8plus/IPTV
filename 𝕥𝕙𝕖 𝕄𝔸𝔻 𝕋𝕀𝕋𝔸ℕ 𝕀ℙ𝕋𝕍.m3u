@@ -426,7 +426,7 @@ http://92.114.85.52:1453/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="99951231" tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/Cxngkm7x/BBC-EARTH-2026-728x353p-1.png" group-title="",🇬🇧 BBC EARTH® 🔒
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rFXyj18r/DATING-MAKED-(1).png" group-title="",🇬🇧 DATING NAKED®
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rFXyj18r/DATING-MAKED-(1).png" group-title="",🇬🇧 DATING NAKED® 🇸🇪
 https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://i.postimg.cc/0NFsjTNC/TF1-2026-728x285p-01.png" group-title="",🇫🇷 TF1®
@@ -792,6 +792,9 @@ https://vz-8fe26208-8ed.b-cdn.net/7d350bd6-1f15-4215-aba4-7c37407ca806/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Generation Iron 4 (2022)" tvg-logo="https://i.postimg.cc/RZk5YpYN/Generation-Iron-4.png" group-title="Filmes | 4K UHD",🇺🇸 Generation Iron 4® (2022)
 https://vz-8fe26208-8ed.b-cdn.net/61ba4d0d-f2ed-4fb7-8420-3850caeb2de4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Pumping Iron (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Filmes | 4K UHD",🇺🇸 Pumping Iron (1977)
+https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Filmes | 4K UHD",Altas capacidades (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
 
@@ -801,14 +804,21 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722402.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Filmes | 4K UHD",Avatar: Fuego y ceniza (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Filmes | 4K UHD",Best of the Best (1989)
+https://vz-8fe26208-8ed.b-cdn.net/cff0ea03-cfd3-48a7-8d14-00d3cd03f828/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Filmes | 4K UHD",Capitain America,Brave New World (2025)
+https://vz-8fe26208-8ed.b-cdn.net/b5eda5a4-ca03-4f4c-b12d-6424a296399e/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Filmes | 4K UHD",Conan,el barbaro (1982)
 https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Filmes | 4K UHD",Conan,el destructor (1984)
 https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="" group-title="Filmes | 4K UHD",Predator (1984)
-https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Filmes | 4K UHD",Predator (1984)
+https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Filmes | 4K UHD",Cortafuego (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548738.mkv
@@ -855,9 +865,8 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548943.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed III (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Deadpool vs. Wolverine (2025) [4K]
-https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png
-
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025) [4K]" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Filmes | 4K UHD",Deadpool vs. Wolverine (2025) [4K]
+https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho (2016) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
@@ -873,6 +882,12 @@ https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed II  (2018) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China (1986) [4K]" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Filmes | 4K UHD",Big trouble in little China (1986) [4K]
+https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003) [4K]" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Filmes | 4K UHD",Kill Bill (2003) [4K]
+https://vod.youtv.ua/viasat_save/X01040/X01040_fhd.mp4/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Os Mercenários 4 (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/990398.mp4
