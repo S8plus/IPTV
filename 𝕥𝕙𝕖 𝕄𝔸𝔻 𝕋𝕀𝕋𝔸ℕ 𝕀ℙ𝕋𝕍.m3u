@@ -399,8 +399,11 @@ https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688897.m3u8
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.postimg.cc/KYTfNPt6/SIC-2026-728x314p-01.png" group-title="",🇵🇹 SIC®
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="" group-title="",🇧🇴 UNITEL®
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/6928b14aaa768aad947bf65d/publish/media_1800.m3u8?aid=69132f19f5398246a0193eb6&dnt=true&dual_render=1&uid=9aRdDbaVZCqpciW3uyAgaPwoqIa3GMd5&sid=s7B9x4FeBSj4IadHe1qRtKjicHrOfbPW&pid=7s5azeRXiqOfDwTB655FX9ImCX4ly3cb&ref=mdstrm.com&ext_pb=0&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1790724867765&ot=Owvg9KlI8P7MPoCmuYr-qA&proto=https&pz=us
+#EXTINF:-1 tvg-id="rtp.bo" tvg-name="RTP" tvg-logo="https://i.postimg.cc/fWd5K5xn/RTPbo.png" group-title="",🇧🇴 RTP®
+https://rtp.noxun.net/hls720/stream3.m3u8
+
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="https://i.postimg.cc/kMRgGRK0/Unitel.png" group-title="",🇧🇴 UNITEL®
+https://master.tucableip.com/unitelsc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y8Nq5xmK/VOS-TV-2026-728x305p-01.png" group-title="",🇧🇴 VOS TV®
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
@@ -888,6 +891,9 @@ https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003) [4K]" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Filmes | 4K UHD",Kill Bill (2003) [4K]
 https://vod.youtv.ua/viasat_save/X01040/X01040_fhd.mp4/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LEGEND (1985) [4K]" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Filmes | 4K UHD",LEGEND (1985) [4K]
+https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Os Mercenários 4 (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/990398.mp4
