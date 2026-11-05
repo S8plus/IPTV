@@ -792,149 +792,151 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mister Olympia (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Filmes | 4K UHD",🇺🇸 Mister Olympia® (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Mister Olympia (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Movies",🇺🇸 Mister Olympia® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/f632e947-bb92-4cb0-a40b-8e136bca2291/1080p/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Generation Iron (2013)" tvg-logo="https://i.postimg.cc/2jJJzPHs/Generation-Iron.png" group-title="Filmes | 4K UHD",🇺🇸 Generation Iron® (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron (2013)" tvg-logo="https://i.postimg.cc/2jJJzPHs/Generation-Iron.png" group-title="Movies",🇺🇸 Generation Iron® (2013)
 https://vz-8fe26208-8ed.b-cdn.net/3a00617f-69bc-4326-afe0-c5e8eeea23a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 2 (2017)" tvg-logo="https://i.postimg.cc/HkSJzdjK/Generation-Iron2.png" group-title="Filmes | 4K UHD",🇺🇸 Generation Iron 2® (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 2 (2017)" tvg-logo="https://i.postimg.cc/HkSJzdjK/Generation-Iron2.png" group-title="Movies",🇺🇸 Generation Iron 2® (2017)
 https://vz-8fe26208-8ed.b-cdn.net/2c8ce25f-587e-47e0-b002-b9c815b6b0d3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 3 (2018)" tvg-logo="https://i.postimg.cc/D0BgPRGF/Generation-Iron3.png" group-title="Filmes | 4K UHD",🇺🇸 Generation Iron 3® (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 3 (2018)" tvg-logo="https://i.postimg.cc/D0BgPRGF/Generation-Iron3.png" group-title="Movies",🇺🇸 Generation Iron 3® (2018)
 https://vz-8fe26208-8ed.b-cdn.net/7d350bd6-1f15-4215-aba4-7c37407ca806/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 4 (2022)" tvg-logo="https://i.postimg.cc/RZk5YpYN/Generation-Iron-4.png" group-title="Filmes | 4K UHD",🇺🇸 Generation Iron 4® (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 4 (2022)" tvg-logo="https://i.postimg.cc/RZk5YpYN/Generation-Iron-4.png" group-title="Movies",🇺🇸 Generation Iron 4® (2022)
 https://vz-8fe26208-8ed.b-cdn.net/61ba4d0d-f2ed-4fb7-8420-3850caeb2de4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pumping Iron (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Filmes | 4K UHD",🇺🇸 Pumping Iron (1977)
+#EXTINF:-1 tvg-id="" tvg-name="Pumping Iron (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Movies",🇺🇸 Pumping Iron (1977)
 https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Filmes | 4K UHD",Altas capacidades (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Movies",Altas capacidades (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Alter ego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/kiTTKUXoX7uHQYUoNBYqOjEY8KD.jpg" group-title="Filmes | 4K UHD",Alter ego (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Alter ego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/kiTTKUXoX7uHQYUoNBYqOjEY8KD.jpg" group-title="Movies",Alter ego (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722402.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Akira (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Filmes | 4K UHD",Akira (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Akira (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Movies",Akira (1988)
 https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Filmes | 4K UHD",Avatar: Fuego y ceniza (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Movies",Avatar: Fuego y ceniza (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Filmes | 4K UHD",Best of the Best (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Movies",Best of the Best (1989)
 https://vz-8fe26208-8ed.b-cdn.net/cff0ea03-cfd3-48a7-8d14-00d3cd03f828/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Filmes | 4K UHD",Capitain America,Brave New World (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Capitain America: Civil War (2016) " tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Movies",Capitain America: Civil War (2016) 
+https://fuckme.dragonballzfans.xyz/cef22e04b2a4947fa4ff4a17dba959c2/ed1a8521a8dc49a472830607ee72e981.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Movies",Capitain America,Brave New World (2025)
 https://vz-8fe26208-8ed.b-cdn.net/b5eda5a4-ca03-4f4c-b12d-6424a296399e/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Filmes | 4K UHD",Conan,el barbaro (1982)
+#EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Movies",Conan,el barbaro (1982)
 https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Filmes | 4K UHD",Conan,el destructor (1984)
+#EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Movies",Conan,el destructor (1984)
 https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Filmes | 4K UHD",Predator (1984)
+#EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Movies",Predator (1984)
 https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Filmes | 4K UHD",Cortafuego (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Movies",Cortafuego (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548738.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste de Prada 2 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg" group-title="Filmes | 4K UHD",El diablo viste de Prada 2 (2026)
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste de Prada 2 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg" group-title="Movies",El diablo viste de Prada 2 (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719457.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="El extranjero (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n7frRF1nA8JLoGk4enOSlgpH27R.jpg" group-title="Filmes | 4K UHD",El extranjero (2025)
+#EXTINF:-1 tvg-id="" tvg-name="El extranjero (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n7frRF1nA8JLoGk4enOSlgpH27R.jpg" group-title="Movies",El extranjero (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548768.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="He-Man y los Masters del Universo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6kqScyPEsn6akDS5HyPf9jE4Od.jpg" group-title="Filmes | 4K UHD",He-Man y los Masters del Universo (2026)
+#EXTINF:-1 tvg-id="" tvg-name="He-Man y los Masters del Universo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6kqScyPEsn6akDS5HyPf9jE4Od.jpg" group-title="Movies",He-Man y los Masters del Universo (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548825.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Filmes | 4K UHD",🇧🇷 Masters of the Universe 🇺🇸 (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Movies",🇧🇷 Masters of the Universe 🇺🇸 (2026)
 https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Filmes | 4K UHD",La Lucha (2026)
+#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Movies",La Lucha (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Filmes | 4K UHD",La muerte de Robin Hood (2026)
+#EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Movies",La muerte de Robin Hood (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xC5IfnCekweHkTFjqQsMOC1gca.jpg" group-title="Filmes | 4K UHD",¡La novia! (2026)
+#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xC5IfnCekweHkTFjqQsMOC1gca.jpg" group-title="Movies",¡La novia! (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/549111.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Filmes | 4K UHD",La venganza de Popeye (2025)
+#EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Movies",La venganza de Popeye (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La vida de Chuck (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg" group-title="Filmes | 4K UHD",La vida de Chuck (2025)
+#EXTINF:-1 tvg-id="" tvg-name="La vida de Chuck (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg" group-title="Movies",La vida de Chuck (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548910.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Labyrinth (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg" group-title="Filmes | 4K UHD",Labyrinth (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Labyrinth (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg" group-title="Movies",Labyrinth (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548914.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Filmes | 4K UHD",Los Cuatro Fantasticos: Primeros pasos (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Movies",Los Cuatro Fantasticos: Primeros pasos (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Los miserables. El origen (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSFPgT9nMHNwjduJcPe8KXyu475.jpg" group-title="Filmes | 4K UHD",Los miserables. El origen (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Los miserables. El origen (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSFPgT9nMHNwjduJcPe8KXyu475.jpg" group-title="Movies",Los miserables. El origen (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548930.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Mi perro y yo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bEdo7mI4gte9So1vsY3AEfpzmGg.jpg" group-title="Filmes | 4K UHD",Mi perro y yo (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Mi perro y yo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bEdo7mI4gte9So1vsY3AEfpzmGg.jpg" group-title="Movies",Mi perro y yo (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548943.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed III (2023) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Movies",Creed III (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025) [4K]" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Filmes | 4K UHD",Deadpool vs. Wolverine (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025) [4K]" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine (2025) [4K]
 https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho (2016) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016) [4K]" tvg-logo="" group-title="Movies",Doutor Estranho (2016) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Doutor Estranho no Multiverso da Loucura (2022) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022) [4K]" tvg-logo="" group-title="Movies",Doutor Estranho no Multiverso da Loucura (2022) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Filmes | 4K UHD",Spider-man,a brand new day (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Movies",Spider-man,a brand new day (2026)
 https://vz-8fe26208-8ed.b-cdn.net/4570af6d-15f1-40ea-be57-976253e6f435/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2088) [4K]" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Filmes | 4K UHD",The Incredible Hulk (2008) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2088) [4K]" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Movies",The Incredible Hulk (2008) [4K]
 https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Creed II  (2018) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018) [4K]" tvg-logo="" group-title="Movies",Creed II  (2018) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China (1986) [4K]" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Filmes | 4K UHD",Big trouble in little China (1986) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China (1986) [4K]" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Movies",Big trouble in little China (1986) [4K]
 https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003) [4K]" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Filmes | 4K UHD",Kill Bill (2003) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003) [4K]" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Movies",Kill Bill (2003) [4K]
 https://vod.youtv.ua/viasat_save/X01040/X01040_fhd.mp4/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LEGEND (1985) [4K]" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Filmes | 4K UHD",LEGEND (1985) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="LEGEND (1985) [4K]" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND (1985) [4K]
 https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Os Mercenários 4 (2023) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="" group-title="Movies",Os Mercenários 4 (2023) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/990398.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Pantera Negra (2018) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="" group-title="Movies",Pantera Negra (2018) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975334.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Pantera Negra: Wakanda para Sempre (2022) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022) [4K]" tvg-logo="" group-title="Movies",Pantera Negra: Wakanda para Sempre (2022) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/986740.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Predador: Assassino de Assassinos (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025) [4K]" tvg-logo="" group-title="Movies",Predador: Assassino de Assassinos (2025) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/966069.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Predador: Terras Selvagens (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens (2025) [4K]" tvg-logo="" group-title="Movies",Predador: Terras Selvagens (2025) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/1016003.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Predadores (2025) [4K]" tvg-logo="" group-title="Filmes | 4K UHD",Predadores (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Predadores (2025) [4K]" tvg-logo="" group-title="Movies",Predadores (2025) [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/965543.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Siete Novias Para Siete Hermanos (1961)" tvg-logo="https://i.postimg.cc/GtMsJj5g/7brides-4-7brothers.png" group-title="Filmes | 4K UHD",Siete Novias Para Siete Hermanos (1961)
+#EXTINF:-1 tvg-id="" tvg-name="Siete Novias Para Siete Hermanos (1961)" tvg-logo="https://i.postimg.cc/GtMsJj5g/7brides-4-7brothers.png" group-title="Movies",Siete Novias Para Siete Hermanos (1961)
 http://pilarika.no-ip.org/Cine/Cine_31/099_-_Siete_Novias_Para_Siete_Hermanos.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Filmes | 4K UHD",Raya y el Último dragón® (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Movies",Raya y el Último dragón® (2021)
 https://vz-8fe26208-8ed.b-cdn.net/623483d2-b997-4460-8338-28fa707ee7a4/720p/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN (2000) [4K]" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Filmes | 4K UHD",X-MEN (2000) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN (2000) [4K]" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN (2000) [4K]
 https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
 
 
