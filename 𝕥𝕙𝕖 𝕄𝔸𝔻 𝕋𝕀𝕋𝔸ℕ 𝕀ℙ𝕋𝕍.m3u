@@ -286,7 +286,7 @@ https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://i.postimg.cc/65kHqLNs/SPACE-1-00.png" group-title="",🇧🇷 SPACE® FHD
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41503.m3u8
+http://138.204.86.4:8080/SPACE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxxSbmdV/STAR-Channel-2026-728x299p-01.png" group-title="",🇺🇸 StarChannel®
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
@@ -298,13 +298,13 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78895.m3u8
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2835.m3u8
 
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM " tvg-logo="https://i.postimg.cc/L68TRVVY/TCM-1.png" group-title="",🇪🇸 TCM®
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
+http://138.204.86.4:8080/TCM_HD/index.m3u8
 
 #EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://i.postimg.cc/90yFz31M/TLC-2024-2.png" group-title="",🇧🇷 TLC®
-https://cdn-5.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
+http://138.204.86.4:8080/TLC_HD/index.m3u8
 
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://i.postimg.cc/63qGZ1FK/TNT-2024-1.png" group-title="",🇧🇷 TNT®
-https://cdn-5.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
+http://138.204.86.4:8080/TNT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/qBSfCgZN/Telecine-Pipoca.png" group-title="",🇧🇷 Telecine Action® [4K]
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74797.m3u8
@@ -319,7 +319,7 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/64378.m3u8
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/948017.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zfzVJkMs/Warner-Channel-512x493p-1.png" group-title="",🇧🇷 WARNER®
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36930.m3u8
+http://138.204.86.4:8080/WARNER_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM " tvg-logo="https://i.postimg.cc/v81kMbHn/XTRM.png" group-title="",🇪🇸 XTRM®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78785.m3u8
@@ -334,7 +334,7 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/36990.m3u8
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38391.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT SP®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/63772.m3u8
+http://138.204.86.4:8080/SBT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 GLOBO TV Rio Sul®
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
@@ -475,13 +475,13 @@ https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 https://cdn-5.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L59tR7YV/ESPN-TV-2026-728x315p-01.png" group-title="",🇧🇷 ESPN 2® 🔒
-https://cdn-5.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L59tR7YV/ESPN-TV-2026-728x315p-01.png" group-title="",🇧🇷 ESPN 3® 🔒
-https://cdn-5.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
+http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L59tR7YV/ESPN-TV-2026-728x315p-01.png" group-title="",🇧🇷 ESPN 4® 🔒
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215401.m3u8
+http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SbRfGQL/SPORTV-2026-728x252p-01.png" group-title="",🇧🇷 SporTV®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37256.m3u8
@@ -780,6 +780,9 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mister Olympia (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Filmes | 4K UHD",🇺🇸 Mister Olympia® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/f632e947-bb92-4cb0-a40b-8e136bca2291/1080p/video.m3u8
 
@@ -803,6 +806,9 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Alter ego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/kiTTKUXoX7uHQYUoNBYqOjEY8KD.jpg" group-title="Filmes | 4K UHD",Alter ego (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722402.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Akira (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Filmes | 4K UHD",Akira (1988)
+https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Filmes | 4K UHD",Avatar: Fuego y ceniza (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
@@ -919,6 +925,8 @@ http://pilarika.no-ip.org/Cine/Cine_31/099_-_Siete_Novias_Para_Siete_Hermanos.mp
 #EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Filmes | 4K UHD",Raya y el Último dragón® (2021)
 https://vz-8fe26208-8ed.b-cdn.net/623483d2-b997-4460-8338-28fa707ee7a4/720p/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN (2000) [4K]" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Filmes | 4K UHD",X-MEN (2000) [4K]
+https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
 
 
 
