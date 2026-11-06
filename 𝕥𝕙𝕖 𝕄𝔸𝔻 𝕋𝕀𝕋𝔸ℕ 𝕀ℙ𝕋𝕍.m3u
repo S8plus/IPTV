@@ -810,12 +810,6 @@ https://vz-8fe26208-8ed.b-cdn.net/61ba4d0d-f2ed-4fb7-8420-3850caeb2de4/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Pumping Iron (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Movies",🇺🇸 Pumping Iron (1977)
 https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Altas capacidades (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg" group-title="Movies",Altas capacidades (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719429.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Alter ego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/kiTTKUXoX7uHQYUoNBYqOjEY8KD.jpg" group-title="Movies",Alter ego (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722402.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Akira (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Movies",Akira (1988)
 https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
 
@@ -840,18 +834,6 @@ https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Movies",Predator (1984)
 https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cortafuego (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Movies",Cortafuego (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548738.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste de Prada 2 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg" group-title="Movies",El diablo viste de Prada 2 (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719457.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="El extranjero (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n7frRF1nA8JLoGk4enOSlgpH27R.jpg" group-title="Movies",El extranjero (2025)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548768.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="He-Man y los Masters del Universo (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6kqScyPEsn6akDS5HyPf9jE4Od.jpg" group-title="Movies",He-Man y los Masters del Universo (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548825.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Movies",🇧🇷 Masters of the Universe 🇺🇸 (2026)
 https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
 
@@ -861,23 +843,11 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Movies",La muerte de Robin Hood (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xC5IfnCekweHkTFjqQsMOC1gca.jpg" group-title="Movies",¡La novia! (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/549111.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Movies",La venganza de Popeye (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La vida de Chuck (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg" group-title="Movies",La vida de Chuck (2025)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548910.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Labyrinth (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg" group-title="Movies",Labyrinth (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548914.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Movies",Los Cuatro Fantasticos: Primeros pasos (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Los miserables. El origen (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSFPgT9nMHNwjduJcPe8KXyu475.jpg" group-title="Movies",Los miserables. El origen (2025)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548930.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQzNjczZTMtMDhiNy00M2VmLTkwM2UtMGI0MTRmMmI0YTNhXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg" group-title="Hope (2026)
 https://audinifer.com/stream/uhEKbc3_rbh6pyPe5gn8KA/kjhhiuahiuhgihdf/1793928153/75999958/master.m3u8
@@ -918,7 +888,7 @@ https://fuckme.dragonballzfans.xyz/7365477b0087e30c4b1a371726bd50c9/fc92fa39e1d2
 #EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="https://i.postimg.cc/hPpRjgzX/mercen4rios.png" group-title="Movies",Os Mercenários 4 (2023) [4K]
 https://fuckme.dragonballzfans.xyz/5bda879c40403f92c8dc21f91d2f2a52/99a53124909d38502a41b0f1c18f83e2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="" group-title="Movies",Pantera Negra (2018) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="https://i.postimg.cc/vH4sXccy/Black-Panther.png" group-title="Movies",Pantera Negra (2018) [4K]
 https://fuckme.dragonballzfans.xyz/8fa2414d97016f7bc03637110f4f9989/d45d97b68a3bf514ed7a8bc8f15fc4b0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022) [4K]" tvg-logo="" group-title="Movies",Pantera Negra: Wakanda para Sempre (2022) [4K]
