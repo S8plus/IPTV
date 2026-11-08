@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=" https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://epg.pw/xmltv/epg_BR.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml.gz"
+#EXTM3U url-tvg=" https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://epg.pw/xmltv/epg_BR.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-name="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-logo="https://imgpx.com/en/voDngB01CrQW.png" group-title="🇺🇸𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ🇺🇸",🇺🇸 𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ 🇺🇸
 https://www.dropbox.com/scl/fi/23xyajrji20qnj4d40zd8/PS4-Home-Screen-Music-sUOzplfB9ps.mp3?rlkey=vsuc73ru0dr05cghekdmrleo2&st=y003vagu&dl=1
@@ -507,7 +507,7 @@ https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/66yS8sJ8/MATC-2026-512x143p-01.png" group-title="",🇷🇺 МАТЧ!®
 https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/Qwgun5Jc8pMzMcexIsbzFA/1783626620/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/" group-title="",🇷🇺 viju+ sport®
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/" group-title="https://i.postimg.cc/sgztt4JJ/viju-sport.png",🇷🇺 viju+ sport®
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="932" tvg-name="Top Barça" tvg-logo="https://i.postimg.cc/G35pyfx0/FCB-2025-01.png" group-title="",🇪🇸 BARÇA TV®
@@ -849,7 +849,10 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Movies",Los Cuatro Fantasticos: Primeros pasos (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQzNjczZTMtMDhiNy00M2VmLTkwM2UtMGI0MTRmMmI0YTNhXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg" group-title="Movies",Hope (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2026)" tvg-logo="https://i.postimg.cc/QMCWsPgK/Residente-Evil.png" group-title="Movies",Resident Evil (2026)
+https://vz-8fe26208-8ed.b-cdn.net/90b09759-204c-46a7-a061-00423de11bb8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://i.postimg.cc/VLKq8YqH/HOPE-512.png" group-title="Movies",Hope (2026)
 https://audinifer.com/stream/uhEKbc3_rbh6pyPe5gn8KA/kjhhiuahiuhgihdf/1793928153/75999958/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Movies",Creed III (2023) [4K]
