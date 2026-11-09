@@ -132,7 +132,7 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/31803.m3u8
 #EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA 100% PESCA " tvg-logo="https://i.postimg.cc/j2nRvDqd/Diseno-sin-titulo-(7).png" group-title="",🇪🇸 IBERALIA 100% PESCA®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78841.m3u8
 
-#EXTINF:-1 tvg-ID="cnn.brasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="https://i.postimg.cc/WzZ9wyrq/CNN-Brasil-2026-512x342p-1.png" group-title="",🇧🇷 CNN Brasil®
+#EXTINF:-1 tvg-ID="cnn.brasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.postimg.cc/WzZ9wyrq/CNN-Brasil-2026-512x342p-1.png" group-title="",🇧🇷 CNN Brasil®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74790.m3u8
 
 #EXTINF:-1  tvg-id="CNNPortugal.pt" tvg-logo="https://i.postimg.cc/nczrMt4Q/CNN-Portugal-2026-512x355p-01.png" group-title="",🇵🇹 CNN Portugal®
@@ -264,7 +264,7 @@ https://huhu.to/play/1502859990/index.m3u8
 #EXTINF:-1 tvg-ID="ION Television East HD" tvg-name="ION Television East HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18633_h15_ac.png" group-title="",🇺🇸 ION TV®
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
 
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix [4K]" tvg-logo="https://i.postimg.cc/j5Zqx3sX/MEGAPIX-2026-728x129p-01.png" group-title="",🇧🇷 MegaPix [4K]®
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix" tvg-logo="https://i.postimg.cc/j5Zqx3sX/MEGAPIX-2026-728x129p-01.png" group-title="",🇧🇷 MegaPix®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/61844.m3u8
 
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="https://i.postimg.cc/HsmjgqcC/MTV-512p-1.png" group-title="",🇬🇧 MTV® 🔒
@@ -312,13 +312,13 @@ http://138.204.86.4:8080/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://i.postimg.cc/63qGZ1FK/TNT-2024-1.png" group-title="",🇧🇷 TNT® (49.66)
 http://170.83.49.66:8083/TNTHD/index.m3u8
 
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/qBSfCgZN/Telecine-Pipoca.png" group-title="",🇧🇷 Telecine Action® [4K]
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/qBSfCgZN/Telecine-Pipoca.png" group-title="",🇧🇷 Telecine Action®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/74797.m3u8
 
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.postimg.cc/KcrL1gzb/Telecine-Pipoca.png" group-title="",🇧🇷 Telecine Pipoca® FHD
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38416.m3u8
 
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium [4K]" tvg-logo="https://imagizer.imageshack.com/img922/7130/TLpWfR.png" group-title="",🇧🇷 TeleCine Premium® [4K]
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="https://imagizer.imageshack.com/img922/7130/TLpWfR.png" group-title="",🇧🇷 TeleCine Premium®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/64378.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5t8NPRjx/Universal-Premiere-2026-728x397p-01.png" group-title="",🇧🇷 UNIVERSAL®
@@ -384,7 +384,7 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/73.m3u8
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.postimg.cc/NFr8qpkF/Caze-TV-2026-512x278p-01.png" group-title="",🇧🇷 Cazé TV®
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" tvg-logo="https://i.postimg.cc/HxsGGvLc/GE-TV-2026-512p-01.png" group-title="",🇧🇷 GE TV [4K]®
+#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV" tvg-logo="https://i.postimg.cc/HxsGGvLc/GE-TV-2026-512p-01.png" group-title="",🇧🇷 GE TV®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/956911.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nhQ02H7F/GEN-TV-2025-512-X512p-1png.png" group-title="",🇦🇷 GENTV®
@@ -492,7 +492,7 @@ http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SbRfGQL/SPORTV-2026-728x252p-01.png" group-title="",🇧🇷 SporTV®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37256.m3u8
 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 [4K]" tvg-logo="https://i.postimg.cc/MHzRpW2Y/Spor-TV2.png" group-title="",🇧🇷 SporTV 2 [4K]
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="https://i.postimg.cc/MHzRpW2Y/Spor-TV2.png" group-title="",🇧🇷 SporTV 2
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215402.m3u8
 
 #EXTINF:-1 tvg-id="DE | Eurosport 1" tvg-logo="https://i.postimg.cc/135284mL/Eurosport-1-hd-00.png" group-title="",🇪🇸 EUROSPORT 1 HD®
@@ -843,6 +843,9 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Movies",La muerte de Robin Hood (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="https://i.postimg.cc/NFpRbKWP/La-Odisea.png" group-title="Movies",La Odisea (2026)
+https://vz-8fe26208-8ed.b-cdn.net/10395e9a-7f5b-4fc4-a2a3-b6a80e0b07a2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Movies",La venganza de Popeye (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
 
@@ -850,60 +853,60 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2026)" tvg-logo="https://i.postimg.cc/QMCWsPgK/Residente-Evil.png" group-title="Movies",Resident Evil (2026)
-https://vz-8fe26208-8ed.b-cdn.net/90b09759-204c-46a7-a061-00423de11bb8/playlist.m3u8
+https://vz-8fe26208-8ed.b-cdn.net/ebf274e0-f4d9-423f-9e46-996adb892788/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://i.postimg.cc/VLKq8YqH/HOPE-512.png" group-title="Movies",Hope (2026)
-https://audinifer.com/stream/uhEKbc3_rbh6pyPe5gn8KA/kjhhiuahiuhgihdf/1793928153/75999958/master.m3u8
+https://vz-8fe26208-8ed.b-cdn.net/378415f9-d6e0-438c-83ba-387d7bf345e1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023) [4K]" tvg-logo="" group-title="Movies",Creed III (2023) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="" group-title="Movies",Creed III (2023)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025) [4K]" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025)" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine (2025)
 https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016) [4K]" tvg-logo="" group-title="Movies",Doutor Estranho (2016) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="" group-title="Movies",Doutor Estranho (2016)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022) [4K]" tvg-logo="" group-title="Movies",Doutor Estranho no Multiverso da Loucura (2022) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022)" tvg-logo="" group-title="Movies",Doutor Estranho no Multiverso da Loucura (2022)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Movies",Spider-man,a brand new day (2026)
 https://vz-8fe26208-8ed.b-cdn.net/4570af6d-15f1-40ea-be57-976253e6f435/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2088) [4K]" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Movies",The Incredible Hulk (2008) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2088)" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Movies",The Incredible Hulk (2008)
 https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018) [4K]" tvg-logo="" group-title="Movies",Creed II  (2018) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018)" tvg-logo="" group-title="Movies",Creed II  (2018)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China (1986) [4K]" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Movies",Big trouble in little China (1986) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China (1986)" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Movies",Big trouble in little China (1986)
 https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003) [4K]" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Movies",Kill Bill (2003) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003)" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Movies",Kill Bill (2003)
 https://vod.youtv.ua/viasat_save/X01040/X01040_fhd.mp4/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LEGEND (1985) [4K]" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND (1985) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="LEGEND (1985)" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND (1985)
 https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MORBIUS (2022) [4K]" tvg-logo="https://i.postimg.cc/rpp6WH4v/morbius.png" group-title="Movies",MORBIUS (2022) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="MORBIUS (2022)" tvg-logo="https://i.postimg.cc/rpp6WH4v/morbius.png" group-title="Movies",MORBIUS (2022)
 https://fuckme.dragonballzfans.xyz/7365477b0087e30c4b1a371726bd50c9/fc92fa39e1d29d2f7778ca95423455b2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023) [4K]" tvg-logo="https://i.postimg.cc/hPpRjgzX/mercen4rios.png" group-title="Movies",Os Mercenários 4 (2023) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023)" tvg-logo="https://i.postimg.cc/hPpRjgzX/mercen4rios.png" group-title="Movies",Os Mercenários 4 (2023)
 https://fuckme.dragonballzfans.xyz/5bda879c40403f92c8dc21f91d2f2a52/99a53124909d38502a41b0f1c18f83e2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018) [4K]" tvg-logo="https://i.postimg.cc/vH4sXccy/Black-Panther.png" group-title="Movies",Pantera Negra (2018) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://i.postimg.cc/vH4sXccy/Black-Panther.png" group-title="Movies",Pantera Negra (2018)
 https://fuckme.dragonballzfans.xyz/8fa2414d97016f7bc03637110f4f9989/d45d97b68a3bf514ed7a8bc8f15fc4b0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022) [4K]" tvg-logo="" group-title="Movies",Pantera Negra: Wakanda para Sempre (2022) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="" group-title="Movies",Pantera Negra: Wakanda para Sempre (2022)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/986740.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025) [4K]" tvg-logo="" group-title="Movies",Predador: Assassino de Assassinos (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025)" tvg-logo="" group-title="Movies",Predador: Assassino de Assassinos (2025)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/966069.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens (2025) [4K]" tvg-logo="" group-title="Movies",Predador: Terras Selvagens (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens (2025)" tvg-logo="" group-title="Movies",Predador: Terras Selvagens (2025)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/1016003.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Predadores (2025) [4K]" tvg-logo="" group-title="Movies",Predadores (2025) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Predadores (2025)" tvg-logo="" group-title="Movies",Predadores (2025)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/965543.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Siete Novias Para Siete Hermanos (1961)" tvg-logo="https://i.postimg.cc/GtMsJj5g/7brides-4-7brothers.png" group-title="Movies",Siete Novias Para Siete Hermanos (1961)
@@ -912,7 +915,10 @@ http://pilarika.no-ip.org/Cine/Cine_31/099_-_Siete_Novias_Para_Siete_Hermanos.mp
 #EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Movies",Raya y el Último dragón® (2021)
 https://vz-8fe26208-8ed.b-cdn.net/623483d2-b997-4460-8338-28fa707ee7a4/720p/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN (2000) [4K]" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN (2000) [4K]
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl® (2026)" tvg-logo="https://i.postimg.cc/D0s8Jt59/Supergirl.png" group-title="Movies",Supergirl® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/aef89b62-47f2-4f9e-963a-40879bc2fac9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN (2000)" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN (2000)
 https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
 
 
