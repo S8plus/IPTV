@@ -792,7 +792,125 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mister Olympia (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Movies",🇺🇸 Mister Olympia® (2026)
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Akira® (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Movies",Akira® (1988)
+https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza® (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Movies",Avatar: Fuego y ceniza® (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Movies",Best of the Best (1989)
+https://vz-8fe26208-8ed.b-cdn.net/cff0ea03-cfd3-48a7-8d14-00d3cd03f828/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China® (1986)" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Movies",Big trouble in little China® (1986)
+https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Capitain America: Civil War® (2016) " tvg-logo="https://i.postimg.cc/bJx4rq7V/Cap-Civil-War.png" group-title="Movies",Capitain America: Civil War® (2016) 
+https://fuckme.dragonballzfans.xyz/cef22e04b2a4947fa4ff4a17dba959c2/ed1a8521a8dc49a472830607ee72e981.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Movies",Capitain America,Brave New World (2025)
+https://vz-8fe26208-8ed.b-cdn.net/b5eda5a4-ca03-4f4c-b12d-6424a296399e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro® (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Movies",Conan,el barbaro® (1982)
+https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor® (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Movies",Conan,el destructor® (1984)
+https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Predator® (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Movies",Predator® (1984)
+https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Movies",🇧🇷 Masters of the Universe 🇺🇸 (2026)
+https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Movies",La Lucha (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood® (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Movies",La muerte de Robin Hood® (2026)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="https://i.postimg.cc/NFpRbKWP/La-Odisea.png" group-title="Movies",La Odisea (2026)
+https://vz-8fe26208-8ed.b-cdn.net/10395e9a-7f5b-4fc4-a2a3-b6a80e0b07a2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye® (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Movies",La venganza de Popeye® (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos® (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Movies",Los Cuatro Fantasticos: Primeros pasos® (2025)
+http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2026)" tvg-logo="https://i.postimg.cc/QMCWsPgK/Residente-Evil.png" group-title="Movies",Resident Evil (2026)
+https://vz-8fe26208-8ed.b-cdn.net/ebf274e0-f4d9-423f-9e46-996adb892788/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://i.postimg.cc/VLKq8YqH/HOPE-512.png" group-title="Movies",Hope (2026)
+https://vz-8fe26208-8ed.b-cdn.net/378415f9-d6e0-438c-83ba-387d7bf345e1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="" group-title="Movies",Creed III (2023)
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine® (2025)" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine® (2025)
+https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="" group-title="Movies",Doutor Estranho (2016)
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022)" tvg-logo="" group-title="Movies",Doutor Estranho no Multiverso da Loucura (2022)
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day® (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Movies",Spider-man,a brand new day® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/4570af6d-15f1-40ea-be57-976253e6f435/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk® (2088)" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Movies",The Incredible Hulk® (2008)
+https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Creed II®  (2018)" tvg-logo="" group-title="Movies",Creed II® (2018)
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill® (2003)" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Movies",Kill Bill® (2003)
+https://vod.youtv.ua/viasat_save/X01040/X01040_fhd.mp4/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La Bola Negra® (2026)" tvg-logo="https://i.postimg.cc/nc7JsNQm/La-Bola-Negra.png" group-title="Movies",La Bola Negra® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/dd5475e3-5ef4-4280-86c4-a0a560a641e0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LEGEND® (1985)" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND® (1985)
+https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MORBIUS® (2022)" tvg-logo="https://i.postimg.cc/rpp6WH4v/morbius.png" group-title="Movies",MORBIUS® (2022)
+https://fuckme.dragonballzfans.xyz/7365477b0087e30c4b1a371726bd50c9/fc92fa39e1d29d2f7778ca95423455b2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4® (2023)" tvg-logo="https://i.postimg.cc/hPpRjgzX/mercen4rios.png" group-title="Movies",Os Mercenários 4® (2023)
+https://fuckme.dragonballzfans.xyz/5bda879c40403f92c8dc21f91d2f2a52/99a53124909d38502a41b0f1c18f83e2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra® (2018)" tvg-logo="https://i.postimg.cc/vH4sXccy/Black-Panther.png" group-title="Movies",Pantera Negra® (2018)
+https://fuckme.dragonballzfans.xyz/8fa2414d97016f7bc03637110f4f9989/d45d97b68a3bf514ed7a8bc8f15fc4b0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Beast® (2026)" tvg-logo="https://i.postimg.cc/LX2VGLN9/Heartfthbeast.png" group-title="Movies",Heart of the Beast® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/07d08787-33aa-417b-b2d5-edfa713b7369/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025)" tvg-logo="" group-title="Movies",Predador: Assassino de Assassinos (2025)
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/966069.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Crow® (1989)" tvg-logo="https://i.postimg.cc/xjZGYwdS/The-Crow.png" group-title="Movies",The Crow® (1989)
+https://vz-8fe26208-8ed.b-cdn.net/d42c34d3-0ffa-492a-b410-9ca1897fba32/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Movies",Raya y el Último dragón® (2021)
+https://vz-8fe26208-8ed.b-cdn.net/623483d2-b997-4460-8338-28fa707ee7a4/720p/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Siete Novias Para Siete Hermanos® (1961)" tvg-logo="https://i.postimg.cc/GtMsJj5g/7brides-4-7brothers.png" group-title="Movies",Siete Novias Para Siete Hermanos® (1961)
+http://pilarika.no-ip.org/Cine/Cine_31/099_-_Siete_Novias_Para_Siete_Hermanos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl® (2026)" tvg-logo="https://i.postimg.cc/D0s8Jt59/Supergirl.png" group-title="Movies",Supergirl® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/aef89b62-47f2-4f9e-963a-40879bc2fac9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WEAPONS® (2025)" tvg-logo="https://i.postimg.cc/X7ZZ8X4W/Weapons.png" group-title="Movies",WEAPONS® (2025)
+https://vz-8fe26208-8ed.b-cdn.net/4ac8ccfe-225c-4361-8c37-52b99c2b8cf4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN® (2000)" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN® (2000)
+https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mister Olympia® (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Movies",🇺🇸 Mister Olympia® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/f632e947-bb92-4cb0-a40b-8e136bca2291/1080p/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Generation Iron (2013)" tvg-logo="https://i.postimg.cc/2jJJzPHs/Generation-Iron.png" group-title="Movies",🇺🇸 Generation Iron® (2013)
@@ -807,124 +925,14 @@ https://vz-8fe26208-8ed.b-cdn.net/7d350bd6-1f15-4215-aba4-7c37407ca806/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Generation Iron 4 (2022)" tvg-logo="https://i.postimg.cc/RZk5YpYN/Generation-Iron-4.png" group-title="Movies",🇺🇸 Generation Iron 4® (2022)
 https://vz-8fe26208-8ed.b-cdn.net/61ba4d0d-f2ed-4fb7-8420-3850caeb2de4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Pumping Iron® (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Movies",🇺🇸 Pumping Iron® (1977)
+https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Rich Pianna® (2017)" tvg-logo="https://i.postimg.cc/XYcQmkTq/Rich-Pianna.png" group-title="Movies",🇺🇸 Rich Pianna® (2017)
 https://vz-8fe26208-8ed.b-cdn.net/60e1c53b-3efc-4a28-a72f-8a73cb7ff066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pumping Iron (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Movies",🇺🇸 Pumping Iron (1977)
-https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Akira (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Movies",Akira (1988)
-https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Movies",Avatar: Fuego y ceniza (2025)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Movies",Best of the Best (1989)
-https://vz-8fe26208-8ed.b-cdn.net/cff0ea03-cfd3-48a7-8d14-00d3cd03f828/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Capitain America: Civil War (2016) " tvg-logo="https://i.postimg.cc/bJx4rq7V/Cap-Civil-War.png" group-title="Movies",Capitain America: Civil War (2016) 
-https://fuckme.dragonballzfans.xyz/cef22e04b2a4947fa4ff4a17dba959c2/ed1a8521a8dc49a472830607ee72e981.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Movies",Capitain America,Brave New World (2025)
-https://vz-8fe26208-8ed.b-cdn.net/b5eda5a4-ca03-4f4c-b12d-6424a296399e/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Movies",Conan,el barbaro (1982)
-https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Movies",Conan,el destructor (1984)
-https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Predator (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Movies",Predator (1984)
-https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Movies",🇧🇷 Masters of the Universe 🇺🇸 (2026)
-https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Movies",La Lucha (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Movies",La muerte de Robin Hood (2026)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="https://i.postimg.cc/NFpRbKWP/La-Odisea.png" group-title="Movies",La Odisea (2026)
-https://vz-8fe26208-8ed.b-cdn.net/10395e9a-7f5b-4fc4-a2a3-b6a80e0b07a2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Movies",La venganza de Popeye (2025)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Movies",Los Cuatro Fantasticos: Primeros pasos (2025)
-http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2026)" tvg-logo="https://i.postimg.cc/QMCWsPgK/Residente-Evil.png" group-title="Movies",Resident Evil (2026)
-https://vz-8fe26208-8ed.b-cdn.net/ebf274e0-f4d9-423f-9e46-996adb892788/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://i.postimg.cc/VLKq8YqH/HOPE-512.png" group-title="Movies",Hope (2026)
-https://vz-8fe26208-8ed.b-cdn.net/378415f9-d6e0-438c-83ba-387d7bf345e1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="" group-title="Movies",Creed III (2023)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine (2025)" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine (2025)
-https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="" group-title="Movies",Doutor Estranho (2016)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022)" tvg-logo="" group-title="Movies",Doutor Estranho no Multiverso da Loucura (2022)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Movies",Spider-man,a brand new day (2026)
-https://vz-8fe26208-8ed.b-cdn.net/4570af6d-15f1-40ea-be57-976253e6f435/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk (2088)" tvg-logo="https://i.postimg.cc/L63zyP1h/the-Incredible-HULK.png" group-title="Movies",The Incredible Hulk (2008)
-https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Creed II  (2018)" tvg-logo="" group-title="Movies",Creed II  (2018)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China (1986)" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Movies",Big trouble in little China (1986)
-https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kill Bill (2003)" tvg-logo="https://i.postimg.cc/28Hgsz6C/Kill-Bil.png" group-title="Movies",Kill Bill (2003)
-https://vod.youtv.ua/viasat_save/X01040/X01040_fhd.mp4/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LEGEND (1985)" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND (1985)
-https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MORBIUS (2022)" tvg-logo="https://i.postimg.cc/rpp6WH4v/morbius.png" group-title="Movies",MORBIUS (2022)
-https://fuckme.dragonballzfans.xyz/7365477b0087e30c4b1a371726bd50c9/fc92fa39e1d29d2f7778ca95423455b2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenarios 4 (2023)" tvg-logo="https://i.postimg.cc/hPpRjgzX/mercen4rios.png" group-title="Movies",Os Mercenários 4 (2023)
-https://fuckme.dragonballzfans.xyz/5bda879c40403f92c8dc21f91d2f2a52/99a53124909d38502a41b0f1c18f83e2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://i.postimg.cc/vH4sXccy/Black-Panther.png" group-title="Movies",Pantera Negra (2018)
-https://fuckme.dragonballzfans.xyz/8fa2414d97016f7bc03637110f4f9989/d45d97b68a3bf514ed7a8bc8f15fc4b0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda para Sempre (2022)" tvg-logo="" group-title="Movies",Pantera Negra: Wakanda para Sempre (2022)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/986740.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Predador: Assassino de Assassinos (2025)" tvg-logo="" group-title="Movies",Predador: Assassino de Assassinos (2025)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/966069.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Predador: Terras Selvagens (2025)" tvg-logo="" group-title="Movies",Predador: Terras Selvagens (2025)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/1016003.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Predadores (2025)" tvg-logo="" group-title="Movies",Predadores (2025)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/965543.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Siete Novias Para Siete Hermanos (1961)" tvg-logo="https://i.postimg.cc/GtMsJj5g/7brides-4-7brothers.png" group-title="Movies",Siete Novias Para Siete Hermanos (1961)
-http://pilarika.no-ip.org/Cine/Cine_31/099_-_Siete_Novias_Para_Siete_Hermanos.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Movies",Raya y el Último dragón® (2021)
-https://vz-8fe26208-8ed.b-cdn.net/623483d2-b997-4460-8338-28fa707ee7a4/720p/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl® (2026)" tvg-logo="https://i.postimg.cc/D0s8Jt59/Supergirl.png" group-title="Movies",Supergirl® (2026)
-https://vz-8fe26208-8ed.b-cdn.net/aef89b62-47f2-4f9e-963a-40879bc2fac9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN (2000)" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN (2000)
-https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Ronnie Coleman: The King® (2018)" tvg-logo="https://i.postimg.cc/hv6kg2Xp/Ronni-Cleman.png" group-title="Movies",🇺🇸 Ronnie Coleman: The King® (2018)
+https://vz-8fe26208-8ed.b-cdn.net/441406d9-e452-4716-98a5-7b6675d0b4fe/playlist.m3u8
 
 
 
