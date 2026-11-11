@@ -471,7 +471,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951359/hls/playlist.m3u8?includeAss
 #EXTINF:-1 tvg-id="JOGOSDEHOJE.br" tvg-name="Jogos de Hoje" tvg-logo="https://i.postimg.cc/5tVr1m8W/JOGOS-de-HOJE-2026-728x485p-1.png" group-title="",🇧🇷 Jogos de Hoje®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/194567.m3u8
 
-#EXTINF:-1 tvg-id="[PE] TV PerÃº" tvg-name="CONCACAF TV" tvg-logo="https://i.postimg.cc/L66qndB2/Concacaf.png" group-title="",🇺🇸 CONCACAF TV®
+#EXTINF:-1 tvg-id="CONCACAF.TV" tvg-name="CONCACAF.TV" tvg-logo="https://i.postimg.cc/L66qndB2/Concacaf.png" group-title="",🇺🇸 CONCACAF TV®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/956911.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L59tR7YV/ESPN-TV-2026-728x315p-01.png" group-title="",🇧🇷 ESPN®
@@ -501,13 +501,13 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78844.m3u8
 #EXTINF:-1 tvg-id="DE | Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://i.postimg.cc/6q5Tk90C/Eurosport-2-hd-0.png" group-title="",🇪🇸  EUROSPORT 2 HD®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78889.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2505VHnZ/FSM-2026-728wx258h-0.png" group-title="",🇪🇸 FSM®
-https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/66yS8sJ8/MATC-2026-512x143p-01.png" group-title="",🇷🇺 МАТЧ!®
 https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/Qwgun5Jc8pMzMcexIsbzFA/1783626620/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/" group-title="https://i.postimg.cc/sgztt4JJ/viju-sport.png",🇷🇺 viju+ sport®
+#EXTINF:-1 tvg-id="SETANTA.SPORTS" tvg-name="SETANTA.SPORTS" tvg-logo="https://i.postimg.cc/MKfdF6Z1/SETANTA.png" group-title="", SETANTA SPORTS 1®
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sgztt4JJ/viju-sport.png" group-title="",🇷🇺 viju+ sport®
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="932" tvg-name="Top Barça" tvg-logo="https://i.postimg.cc/G35pyfx0/FCB-2025-01.png" group-title="",🇪🇸 BARÇA TV®
@@ -521,6 +521,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="beIN SPORTS Xtra" tvg-logo="https://i.postimg.cc/ydhhCxfx/be-IN-Sports-XTRA-2026-512x445p-01.png" group-title="",🇪🇸 beIN Sports XTRA® 
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2505VHnZ/FSM-2026-728wx258h-0.png" group-title="",🇪🇸 FSM®
+https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpTVZPrd/FIFA-2026-728x243p-01.png" group-title="",🇺🇸 FIFA PLUS®
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -907,6 +910,8 @@ https://vz-8fe26208-8ed.b-cdn.net/4ac8ccfe-225c-4361-8c37-52b99c2b8cf4/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN® (2000)" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN® (2000)
 https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
+
+
 
 
 
