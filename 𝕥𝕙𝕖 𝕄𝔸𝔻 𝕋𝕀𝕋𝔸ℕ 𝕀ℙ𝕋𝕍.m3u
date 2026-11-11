@@ -417,6 +417,9 @@ https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J0nbr71j/Leman-Bleu-tv-2026-728x370p-1.png" group-title="",🇨🇭 Léman Bleu®
 https://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KINOTEATR" tvg-name="KINOTEATR" tvg-logo="https://i.postimg.cc/ZqG400Gy/KINOTHEATR.png" group-title="",🇺🇿 KINOTEATR®
+https://tv.mtrk.my/api/stream/11/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SN8wtQ3z/ORF-III-2026-728x284p-01.png" group-title="",🇩🇪 ORF III® 🔒
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 
@@ -510,7 +513,7 @@ https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SETANTA.SPORTS" tvg-name="SETANTA.SPORTS" tvg-logo="https://i.postimg.cc/sgt67y1j/SETANT-A.png" group-title="",🇺🇿 SETANTA SPORTS 1®
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SETANTA.SPORTS" tvg-name="SETANTA.SPORTS" tvg-logo="https://i.postimg.cc/NMyjV6Qq/SETANTA2.png" group-title="",🇺🇿 SETANTA SPORTS 2®
+#EXTINF:-1 tvg-id="SETANTA.SPORTS2" tvg-name="SETANTA.SPORTS2" tvg-logo="https://i.postimg.cc/NMyjV6Qq/SETANTA2.png" group-title="",🇺🇿 SETANTA SPORTS 2®
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FUTBOL.TV" tvg-name="FUTBOL.TV" tvg-logo="https://i.postimg.cc/BQtXkPB4/.png" group-title="",🇺🇿 FUTBOL TV®
