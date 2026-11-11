@@ -504,11 +504,17 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/66yS8sJ8/MATC-2026-512x143p-01.png" group-title="",🇷🇺 МАТЧ!®
 https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/Qwgun5Jc8pMzMcexIsbzFA/1783626620/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="SETANTA.SPORTS" tvg-name="SETANTA.SPORTS" tvg-logo="https://i.postimg.cc/MKfdF6Z1/SETANTA.png" group-title="", SETANTA SPORTS 1®
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sgztt4JJ/viju-sport.png" group-title="",🇷🇺 viju+ sport®
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SETANTA.SPORTS" tvg-name="SETANTA.SPORTS" tvg-logo="https://i.postimg.cc/sgt67y1j/SETANT-A.png" group-title="",🇺🇿 SETANTA SPORTS 1®
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SETANTA.SPORTS" tvg-name="SETANTA.SPORTS" tvg-logo="https://i.postimg.cc/NMyjV6Qq/SETANTA2.png" group-title="",🇺🇿 SETANTA SPORTS 2®
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FUTBOL.TV" tvg-name="FUTBOL.TV" tvg-logo="https://i.postimg.cc/BQtXkPB4/.png" group-title="",🇺🇿 FUTBOL TV®
+https://stream2.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="932" tvg-name="Top Barça" tvg-logo="https://i.postimg.cc/G35pyfx0/FCB-2025-01.png" group-title="",🇪🇸 BARÇA TV®
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
@@ -522,14 +528,14 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="beIN SPORTS Xtra" tvg-logo="https://i.postimg.cc/ydhhCxfx/be-IN-Sports-XTRA-2026-512x445p-01.png" group-title="",🇪🇸 beIN Sports XTRA® 
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2505VHnZ/FSM-2026-728wx258h-0.png" group-title="",🇪🇸 FSM®
-https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpTVZPrd/FIFA-2026-728x243p-01.png" group-title="",🇺🇸 FIFA PLUS®
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/c6qy9FDK/GOAL-TV-2025-728-X520p-01.png" group-title="",🇺🇸 GOAL TV®
 https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8?channel_name=GOAL%20TV&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=lr8eDI
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2505VHnZ/FSM-2026-728wx258h-0.png" group-title="",🇪🇸 FSM®
+https://play.agenciastreaming.com:8081/futsalmafertv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fR4LyfPj/DAZN-TV-2026-728x352p-1.png" group-title="",🇵🇹 DAZN TV®
 https://operator2.barfik.org/live/1dtv46497u/tui6w19297/1688730.m3u8
