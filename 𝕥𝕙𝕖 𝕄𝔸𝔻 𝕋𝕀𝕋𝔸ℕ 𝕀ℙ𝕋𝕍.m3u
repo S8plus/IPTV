@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=" https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://epg.pw/xmltv/epg_BR.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml.gz" refresh="3600"
+#EXTM3U url-tvg=" https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://epg.pw/xmltv/epg_BR.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml,https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml"
 
 #EXTINF:-1 tvg-id="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-name="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-logo="https://imgpx.com/en/voDngB01CrQW.png" group-title="🇺🇸𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ🇺🇸",🇺🇸 𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ 🇺🇸
 https://www.dropbox.com/scl/fi/23xyajrji20qnj4d40zd8/PS4-Home-Screen-Music-sUOzplfB9ps.mp3?rlkey=vsuc73ru0dr05cghekdmrleo2&st=y003vagu&dl=1
@@ -219,11 +219,11 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36985.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bNbVnnft/Discovery-ID-XXVI-512x310p-01.png" group-title="",🇧🇷 DISCOVERY ID®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37114.m3u8
 
-#EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://i.postimg.cc/cHtxcM9G/Discovery-TURBO-2026-244x728p-1-0.png" group-title="",🇧🇷 DISCOVERY TURBO®
+#EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://img.listaiptvhd.live/images/kYqXVyl.png" group-title="",🇧🇷 DISCOVERY TURBO®
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO " tvg-logo="https://img.listaiptvhd.live/images/kYqXVyl.png" group-title="",🇪🇸 DISCOVERY TURBO®
-http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/537072.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO " tvg-logo="https://i.postimg.cc/VvMDSMmM/Discovery-Turbo.png" group-title="",🇪🇸 DISCOVERY TURBO®
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 
 #EXTINF:-1 tvg-id="dreamworks.br" tvg-name="DreamWorks" tvg-logo="https://i.postimg.cc/SxbD8BW4/DREAMWORKS-2026-728x430p-01.png" group-title="",🇧🇷 DreamWorks®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/952168.m3u8
@@ -237,19 +237,19 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-ID="Fuse HD" tvg-name="Fuse HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="",🇺🇸 FUSE®
 https://fl1.moveonjoy.com/FUSE/index.m3u8
 
-#EXTINF:-1 tvg-ID="HBO East" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="",🇺🇸 HBO®
+#EXTINF:-1 tvg-ID="HBO East" tvg-name="HBO East" tvg-logo="https://i.postimg.cc/yNqtvVrB/hbo.png" group-title="",🇺🇸 HBO®
 https://fl1.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-ID="HBO 2 East" tvg-name="HBO 2 East" tvg-logo="https://i.postimg.cc/wjG4D32r/HBO-2-2024-0.png" group-title="",🇺🇸 HBO 2®
+#EXTINF:-1 tvg-ID="HBO 2 East" tvg-name="HBO 2 East" tvg-logo="https://i.postimg.cc/8zvnF2PV/hbo2.png" group-title="",🇺🇸 HBO 2®
 https://fl1.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-ID="HBO Zone HD" tvg-name="HBO Zone HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="",🇺🇸 HBO ZONE®
+#EXTINF:-1 tvg-ID="HBO Zone HD" tvg-name="HBO Zone HD" tvg-logo="https://i.postimg.cc/XqTk4v5r/hbo-Zone.png" group-title="",🇺🇸 HBO ZONE®
 http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-ID="HBO Comedy HD" tvg-name="HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="",🇺🇸 HBO Comedy®
 http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-ID="HBO Family East" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="",🇺🇸 HBO Family®
+#EXTINF:-1 tvg-ID="HBO Family East" tvg-name="HBO Family East" tvg-logo="https://i.postimg.cc/260HRmTS/hbofamily.png" group-title="",🇺🇸 HBO Family®
 http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="https://i.postimg.cc/ncnCgG4B/Canal-Historia-3.png" group-title="",🇪🇸 HISTORY®
@@ -267,8 +267,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix" tvg-logo="https://i.postimg.cc/j5Zqx3sX/MEGAPIX-2026-728x129p-01.png" group-title="",🇧🇷 MegaPix®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/61844.m3u8
 
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="https://i.postimg.cc/HsmjgqcC/MTV-512p-1.png" group-title="",🇬🇧 MTV® 🔒
-http://92.114.85.52:1453/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.au" tvg-name="MTV.uk" tvg-logo="https://i.postimg.cc/HsmjgqcC/MTV-512p-1.png" group-title="",🇬🇧 MTV® 🔒
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
 #EXTINF:-1 tvg-id="PT | MTV HD" tvg-name="MTV" tvg-logo="https://i.postimg.cc/d1L9HYb1/Diseno-sin-titulo-(9).png" group-title="",🇪🇸 MTV®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/139343.m3u8
@@ -285,8 +285,8 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78835.m3u8
 #EXTINF:-1 tvg-ID="Oxygen True Crime" tvg-name="Oxygen True Crime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="",🇺🇸 Oxygen®
 https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q72GfQQK/PARAMOUNT-2024-0.png" group-title="",🇺🇸 PARAMOUNT®
-https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.nl@SD" tvg-name="" tvg-logo="https://i.postimg.cc/q72GfQQK/PARAMOUNT-2024-0.png" group-title="",🇺🇸 PARAMOUNT®
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://i.postimg.cc/65kHqLNs/SPACE-1-00.png" group-title="",🇧🇷 SPACE® FHD
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
@@ -330,17 +330,17 @@ http://138.204.86.4:8080/WARNER_HD/index.m3u8
 #EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM " tvg-logo="https://i.postimg.cc/v81kMbHn/XTRM.png" group-title="",🇪🇸 XTRM®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78785.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="",🇧🇷 BAND SPORTS®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4y7C5KR7/TV-BAND-2026-2018-883x512p-0.png" group-title="",🇧🇷 BAND®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/36990.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vDFfCNRT/Bandsports.png" group-title="",🇧🇷 BAND SPORTS®
+http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
 
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="https://i.postimg.cc/4y7C5KR7/TV-BAND-2026-2018-883x512p-0.png" group-title="",🇧🇷 BAND News®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38391.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT SP®
-http://138.204.86.4:8080/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBT@SD" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT SP®
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 GLOBO TV Rio Sul®
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
@@ -355,7 +355,7 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41521.m3u8
 https://cdn-5.nxplay.com.br/RECORD_NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/FHc9B6yT/Record-News-2026-728x272p-01.png" group-title="",🇧🇷 RECORD NEWS®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/.m3u8
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cwWs5dh/TV-BRASIL-2026-728x199p-01.png" group-title="",🇧🇷 TV BRASIL®
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
@@ -450,7 +450,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="NHK General TV" tvg-name="NHK General TV" tvg-logo="https://i.postimg.cc/SNL5t0k1/NHG-2026-0p-728x3641.png" group-title="",🇯🇵 NHK General®
 https://nhk4.mov3.co/hls/nhk.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GhP7Dwk8/Rock-TV-2026-728x249p-01.png" group-title="",🇺🇸 ROCK TV®
+#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-name="" tvg-logo="https://i.postimg.cc/GhP7Dwk8/Rock-TV-2026-728x249p-01.png" group-title="",🇺🇸 ROCK TV®
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgpx.com/en/VfqNYK2CbzA7.webp" group-title="",🇨🇳 Hunan TV 4K®
@@ -531,7 +531,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="beIN SPORTS Xtra" tvg-logo="https://i.postimg.cc/ydhhCxfx/be-IN-Sports-XTRA-2026-512x445p-01.png" group-title="",🇪🇸 beIN Sports XTRA® 
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpTVZPrd/FIFA-2026-728x243p-01.png" group-title="",🇺🇸 FIFA PLUS®
+#EXTINF:-1 tvg-id="63d91d2560bc8f0008a225e4" tvg-name="FIFA +" tvg-logo="https://i.postimg.cc/GpTVZPrd/FIFA-2026-728x243p-01.png" group-title="",🇬🇧 FIFA +®
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/c6qy9FDK/GOAL-TV-2025-728-X520p-01.png" group-title="",🇺🇸 GOAL TV®
@@ -588,8 +588,8 @@ https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/JzmDHd5J/UFA-512-X629p-01.png" group-title="",🇺🇸 UFA® 
 https://87c9d6408867439b8b70e32642d80cc5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_UnitedFightAlliance/playlist.m3u8
 
-#EXTINF:-1 tvg-id="99951134" tvg-name="UFC" tvg-logo="https://i.postimg.cc/vmsPStXS/UFC-2026-728x250p-01.png" group-title="",🇺🇸 UFC®
-https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="67a52cd4ec91870008a62164" tvg-name="UFC" tvg-logo="https://i.postimg.cc/vmsPStXS/UFC-2026-728x250p-01.png" group-title="",🇲🇽 UFC®
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QM8xpNh5/MMA-TV-2026-728x208p-01.png" group-title="",🇺🇸 MMA-TV®
 https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
@@ -809,10 +809,13 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akira® (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Movies",Akira® (1988)
 https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipse Z (2026)" tvg-logo="https://i.postimg.cc/3r0zPSPh/Apocalipsis-Z.png" group-title="Movies",Apocalipse Z® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/a21da942-1ec1-4c0c-908d-f3608e75ca8a/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: Fuego y ceniza® (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="Movies",Avatar: Fuego y ceniza® (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/719434.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Movies",Best of the Best (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Best of the Best (1989)" tvg-logo="https://i.postimg.cc/j5J0RBDV/Bestfth-Best-1989.png" group-title="Movies",Best of the Best® (1989)
 https://vz-8fe26208-8ed.b-cdn.net/cff0ea03-cfd3-48a7-8d14-00d3cd03f828/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Big trouble in little China® (1986)" tvg-logo="https://i.postimg.cc/3wCf1n5W/Big-Troublein-Little-Chinas.png" group-title="Movies",Big trouble in little China® (1986)
@@ -821,7 +824,7 @@ https://vz-8fe26208-8ed.b-cdn.net/3dc618d9-3023-4b5c-b91a-a13d9d0b1c6c/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Capitain America: Civil War® (2016) " tvg-logo="https://i.postimg.cc/bJx4rq7V/Cap-Civil-War.png" group-title="Movies",Capitain America: Civil War® (2016) 
 https://fuckme.dragonballzfans.xyz/cef22e04b2a4947fa4ff4a17dba959c2/ed1a8521a8dc49a472830607ee72e981.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Movies",Capitain America,Brave New World (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Capitain America,Brave New World (2025)" tvg-logo="https://i.postimg.cc/Y9BMVpSN/Capitain-America-Brave-New-World.png" group-title="Movies",Capitain America,Brave New World® (2025)
 https://vz-8fe26208-8ed.b-cdn.net/b5eda5a4-ca03-4f4c-b12d-6424a296399e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el barbaro® (1982)" tvg-logo="https://i.postimg.cc/g2pYNXPv/Conan-The-Barbarian.png" group-title="Movies",Conan,el barbaro® (1982)
@@ -833,16 +836,16 @@ https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Predator® (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Movies",Predator® (1984)
 https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Movies",🇧🇷 Masters of the Universe 🇺🇸 (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Masters of the Universe" tvg-logo="https://i.postimg.cc/yYLrmwDy/He-Man.png" group-title="Movies",🇧🇷 Masters of the Universe® 🇺🇸 (2026)
 https://roymedia.myqnapcloud.com:8081/My-Movies/Fantasy/Masters%20of%20the%20Universe.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Movies",La Lucha (2026)
+#EXTINF:-1 tvg-id="" tvg-name="La Lucha (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/l04B1hsz94w248AiNrnJwAcSFTT.jpg" group-title="Movies",La Lucha® (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/723526.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="La muerte de Robin Hood® (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pC2hVl4J522GcMVc5OghRHSs0tq.jpg" group-title="Movies",La muerte de Robin Hood® (2026)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/724067.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="https://i.postimg.cc/NFpRbKWP/La-Odisea.png" group-title="Movies",La Odisea (2026)
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="https://i.postimg.cc/NFpRbKWP/La-Odisea.png" group-title="Movies",La Odisea® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/10395e9a-7f5b-4fc4-a2a3-b6a80e0b07a2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="La venganza de Popeye® (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg" group-title="Movies",La venganza de Popeye® (2025)
@@ -851,23 +854,17 @@ http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/548909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantasticos: Primeros pasos® (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Movies",Los Cuatro Fantasticos: Primeros pasos® (2025)
 http://tuercebotas.com:80/movie/josemaripi/rtMAxnMh2zd9/722443.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2026)" tvg-logo="https://i.postimg.cc/QMCWsPgK/Residente-Evil.png" group-title="Movies",Resident Evil (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil (2026)" tvg-logo="https://i.postimg.cc/QMCWsPgK/Residente-Evil.png" group-title="Movies",Resident Evil® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/ebf274e0-f4d9-423f-9e46-996adb892788/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://i.postimg.cc/VLKq8YqH/HOPE-512.png" group-title="Movies",Hope (2026)
+#EXTINF:-1 tvg-id="" tvg-name="Hope (2026)" tvg-logo="https://i.postimg.cc/VLKq8YqH/HOPE-512.png" group-title="Movies",Hope® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/378415f9-d6e0-438c-83ba-387d7bf345e1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="" group-title="Movies",Creed III (2023)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/113325.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine® (2025)" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine® (2025)
 https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="" group-title="Movies",Doutor Estranho (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2026)" tvg-logo="" group-title="Movies",Doutor Estranho (2026)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho no Multiverso da Loucura (2022)" tvg-logo="" group-title="Movies",Doutor Estranho no Multiverso da Loucura (2022)
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/202764.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day® (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Movies",Spider-man,a brand new day® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/4570af6d-15f1-40ea-be57-976253e6f435/playlist.m3u8
@@ -886,6 +883,9 @@ https://vz-8fe26208-8ed.b-cdn.net/dd5475e3-5ef4-4280-86c4-a0a560a641e0/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="LEGEND® (1985)" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND® (1985)
 https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LEON (2026)" tvg-logo="https://i.postimg.cc/Gp9yXy9s/LEON.png" group-title="Movies",LEON® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/69e3225e-00bb-4899-8101-f4d228684c8b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MORBIUS® (2022)" tvg-logo="https://i.postimg.cc/rpp6WH4v/morbius.png" group-title="Movies",MORBIUS® (2022)
 https://fuckme.dragonballzfans.xyz/7365477b0087e30c4b1a371726bd50c9/fc92fa39e1d29d2f7778ca95423455b2.m3u8
