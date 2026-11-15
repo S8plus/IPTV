@@ -884,7 +884,7 @@ https://vz-8fe26208-8ed.b-cdn.net/dd5475e3-5ef4-4280-86c4-a0a560a641e0/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="LEGEND® (1985)" tvg-logo="https://i.postimg.cc/MGCc90SM/LEGEND.png" group-title="Movies",LEGEND® (1985)
 https://vz-8fe26208-8ed.b-cdn.net/1647200f-cde7-4437-9dba-243097d95f12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LEON (2026)" tvg-logo="https://i.postimg.cc/Gp9yXy9s/LEON.png" group-title="Movies",LEON® (2026)
+#EXTINF:-1 tvg-id="" tvg-name="LEON® (1994)" tvg-logo="https://i.postimg.cc/Gp9yXy9s/LEON.png" group-title="Movies",LEON® (1994)
 https://vz-8fe26208-8ed.b-cdn.net/69e3225e-00bb-4899-8101-f4d228684c8b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MORBIUS® (2022)" tvg-logo="https://i.postimg.cc/rpp6WH4v/morbius.png" group-title="Movies",MORBIUS® (2022)
@@ -907,6 +907,9 @@ https://vz-8fe26208-8ed.b-cdn.net/d42c34d3-0ffa-492a-b410-9ca1897fba32/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="Raya y el Último dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" group-title="Movies",Raya y el Último dragón® (2021)
 https://vz-8fe26208-8ed.b-cdn.net/623483d2-b997-4460-8338-28fa707ee7a4/720p/video.m3u8
+
+#EXTINF:-1 tvg-id="Sala de Profesores® (2023)" tvg-name="" tvg-logo="https://i.postimg.cc/ydhB1xWS/Sala-de-Profesores.png" group-title="Movies",Sala de Profesores® (2023)
+https://vz-8fe26208-8ed.b-cdn.net/37061aff-7f95-46a9-863b-11f69261313f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Siete Novias Para Siete Hermanos® (1961)" tvg-logo="https://i.postimg.cc/GtMsJj5g/7brides-4-7brothers.png" group-title="Movies",Siete Novias Para Siete Hermanos® (1961)
 http://pilarika.no-ip.org/Cine/Cine_31/099_-_Siete_Novias_Para_Siete_Hermanos.mp4
