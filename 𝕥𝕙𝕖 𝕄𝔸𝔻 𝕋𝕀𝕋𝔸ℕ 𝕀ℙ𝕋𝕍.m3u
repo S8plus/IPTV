@@ -213,17 +213,26 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/36986.m3u8
 #EXTINF:-1 tvg-ID="Crime & Investigation HD" tvg-name="Crime & Investigation HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="", 🇨🇦 Crime+Investigation®
 https://huhu.to/play/4077015271/index.m3u8
 
-#EXTINF:-1 tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/d1m0YRH4/DISCOVERY-Channel-GIF-2024-0.gif" group-title="",🇧🇷 DISCOVERY®
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36985.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bNbVnnft/Discovery-ID-XXVI-512x310p-01.png" group-title="",🇧🇷 DISCOVERY ID®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/37114.m3u8
 
-#EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://img.listaiptvhd.live/images/kYqXVyl.png" group-title="",🇧🇷 DISCOVERY TURBO®
-https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/d1m0YRH4/DISCOVERY-Channel-GIF-2024-0.gif" group-title="",🇧🇷 DISCOVERY®
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TwRG5vKc/Discovery-H-H.png" group-title="",🇧🇷 DISCOVERY H&H®
+https://cdn-5.nxplay.com.br/DISCOVERY_HH/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gjG3XjpZ/Discove-Theater.png" group-title="",🇧🇷 DISCOVERY THEATER®
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="99951438" tvg-name="Discovery Turbo TV" tvg-logo="https://i.postimg.cc/brh6wqdy/D-Turbo.png" group-title="",🇧🇷 DISCOVERY TURBO®
+https://cdn-5.nxplay.com.br/DISCOVERY_TURBO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO " tvg-logo="https://i.postimg.cc/VvMDSMmM/Discovery-Turbo.png" group-title="",🇪🇸 DISCOVERY TURBO®
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+
+#EXTINF:-1 tvg-id="99951439" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.postimg.cc/k5CLZWPB/WORLD.png" group-title="",🇧🇷 DISCOVERY WORLD®
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="dreamworks.br" tvg-name="DreamWorks" tvg-logo="https://i.postimg.cc/SxbD8BW4/DREAMWORKS-2026-728x430p-01.png" group-title="",🇧🇷 DreamWorks®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/952168.m3u8
@@ -255,11 +264,11 @@ http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="https://i.postimg.cc/ncnCgG4B/Canal-Historia-3.png" group-title="",🇪🇸 HISTORY®
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78837.m3u8
 
+#EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="https://i.postimg.cc/TYCp0Qj6/History.png" group-title="",🇧🇷 HISTORY®
+https://cdn-5.nxplay.com.br/HISTORY/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/15RKtSQj/HISTORY-2-2024-01.png" group-title="",🇧🇷 HISTORY 2®
 https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="",🇺🇸 INVESTIGATION DISCOVERY®
-https://huhu.to/play/1502859990/index.m3u8
 
 #EXTINF:-1 tvg-ID="ION Television East HD" tvg-name="ION Television East HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18633_h15_ac.png" group-title="",🇺🇸 ION TV®
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
@@ -289,7 +298,7 @@ https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://i.postimg.cc/65kHqLNs/SPACE-1-00.png" group-title="",🇧🇷 SPACE® FHD
-http://138.204.86.4:8080/SPACE_HD/index.m3u8
+https://cdn-5.nxplay.com.br/SPACE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxxSbmdV/STAR-Channel-2026-728x299p-01.png" group-title="",🇺🇸 StarChannel®
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
@@ -331,7 +340,7 @@ http://138.204.86.4:8080/WARNER_HD/index.m3u8
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78785.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4y7C5KR7/TV-BAND-2026-2018-883x512p-0.png" group-title="",🇧🇷 BAND®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/36990.m3u8
+https://cdn-5.nxplay.com.br/BAND_RJ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vDFfCNRT/Bandsports.png" group-title="",🇧🇷 BAND SPORTS®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
@@ -340,7 +349,7 @@ http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38391.m3u8
 
 #EXTINF:-1 tvg-id="SBT@SD" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT SP®
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://cdn-5.nxplay.com.br/SBT_RJ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 GLOBO TV Rio Sul®
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
@@ -833,6 +842,9 @@ https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor® (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Movies",Conan,el destructor® (1984)
 https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="E.T.® (1982)" tvg-logo="https://i.postimg.cc/P5Vtn6K5/ET.png" group-title="Movies",E.T.® (1982)
+https://vz-8fe26208-8ed.b-cdn.net/d9bea65e-e41a-4e5a-9e55-f631946ebb9c/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Predator® (1984)" tvg-logo="https://i.postimg.cc/C1fGJsQ6/Predators.png" group-title="Movies",Predator® (1984)
 https://vz-8fe26208-8ed.b-cdn.net/9effe322-2b14-46a9-94d1-ae9d2cbcf4c3/playlist.m3u8
 
@@ -944,6 +956,9 @@ https://vz-8fe26208-8ed.b-cdn.net/7d350bd6-1f15-4215-aba4-7c37407ca806/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="Generation Iron 4 (2022)" tvg-logo="https://i.postimg.cc/RZk5YpYN/Generation-Iron-4.png" group-title="Movies",🇺🇸 Generation Iron 4® (2022)
 https://vz-8fe26208-8ed.b-cdn.net/61ba4d0d-f2ed-4fb7-8420-3850caeb2de4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron Persia® (2023)" tvg-logo="https://i.postimg.cc/bNv5DN3Q/Generationronersia.png" group-title="Movies",🇺🇸 Generation Iron Persia® (2023)
+https://vz-8fe26208-8ed.b-cdn.net/6ea66fd3-f095-4819-8678-df8aab2cd235/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pumping Iron® (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Movies",🇺🇸 Pumping Iron® (1977)
 https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
