@@ -268,7 +268,7 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78837.m3u8
 https://cdn-5.nxplay.com.br/HISTORY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/15RKtSQj/HISTORY-2-2024-01.png" group-title="",🇧🇷 HISTORY 2®
-https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/HISTORY_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="ION Television East HD" tvg-name="ION Television East HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18633_h15_ac.png" group-title="",🇺🇸 ION TV®
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
@@ -310,10 +310,11 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/78895.m3u8
 http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2835.m3u8
 
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM " tvg-logo="https://i.postimg.cc/L68TRVVY/TCM-1.png" group-title="",🇪🇸 TCM®
-http://138.204.86.4:8080/TCM_HD/index.m3u8
+https://cdn-5.nxplay.com.br/TCM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://i.postimg.cc/90yFz31M/TLC-2024-2.png" group-title="",🇧🇷 TLC®
 http://138.204.86.4:8080/TLC_HD/index.m3u8
+https://cdn-5.nxplay.com.br/TLC_BR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://i.postimg.cc/63qGZ1FK/TNT-2024-1.png" group-title="",🇧🇷 TNT®
 http://138.204.86.4:8080/TNT_HD/index.m3u8
@@ -357,8 +358,8 @@ http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews FHD" tvg-logo="https://i.postimg.cc/GpXv8cDJ/GLOBO-News-2026-728p-1.png" group-title="",🇧🇷 GloboNews®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38397.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/mDKpT8KW/tv-Record-2026-512p-01.png" group-title="",🇧🇷 TV RECORD Rio®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/41521.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/mDKpT8KW/tv-Record-2026-512p-01.png" group-title="",🇧🇷 TV RECORD SP®
+https://cdn-5.nxplay.com.br/RECORD_SP/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://i.postimg.cc/FHc9B6yT/Record-News-2026-728x272p-01.png" group-title="",🇧🇷 RECORD NEWS® (nxplay)
 https://cdn-5.nxplay.com.br/RECORD_NEWS/tracks-v1a1/mono.m3u8
