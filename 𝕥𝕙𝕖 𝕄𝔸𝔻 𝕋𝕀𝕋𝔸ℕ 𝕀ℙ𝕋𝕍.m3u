@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg=" https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://epg.pw/xmltv/epg_BR.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml,https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml"
 
 #EXTINF:-1 tvg-id="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-name="𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ " tvg-logo="https://imgpx.com/en/voDngB01CrQW.png" group-title="🇺🇸𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ🇺🇸",🇺🇸 𝕥𝕙𝕖 𝕄𝔸𝔻 𝕋𝕀𝕋𝔸ℕ 𝕀ℙ𝕋𝕍®™ 🇺🇸
@@ -313,7 +314,6 @@ http://tuercebotas.com:80/live/josemaripi/rtMAxnMh2zd9/2835.m3u8
 https://cdn-5.nxplay.com.br/TCM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://i.postimg.cc/90yFz31M/TLC-2024-2.png" group-title="",🇧🇷 TLC®
-http://138.204.86.4:8080/TLC_HD/index.m3u8
 https://cdn-5.nxplay.com.br/TLC_BR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://i.postimg.cc/63qGZ1FK/TNT-2024-1.png" group-title="",🇧🇷 TNT®
@@ -540,6 +540,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 channel-id="bc932f13c31e542db6e3e6247e7131bc" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-chno="255" tvg-name="beIN SPORTS Xtra" tvg-logo="https://i.postimg.cc/ydhhCxfx/be-IN-Sports-XTRA-2026-512x445p-01.png" group-title="",🇪🇸 beIN Sports XTRA® 
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="63d91d2560bc8f0008a225e4" tvg-name="UEFA.tv" tvg-logo="https://i.postimg.cc/pLZFSqCh/UEFA.png" group-title="",🇺🇸 UEFA.tv®
+https://a.tubi1.apollo.adrise.io/live/uefatv-4qrnoq.m3u8
 
 #EXTINF:-1 tvg-id="63d91d2560bc8f0008a225e4" tvg-name="FIFA +" tvg-logo="https://i.postimg.cc/GpTVZPrd/FIFA-2026-728x243p-01.png" group-title="",🇬🇧 FIFA +®
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
