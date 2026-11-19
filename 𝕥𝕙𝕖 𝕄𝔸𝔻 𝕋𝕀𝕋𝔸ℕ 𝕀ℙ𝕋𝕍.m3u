@@ -347,13 +347,13 @@ https://cdn-5.nxplay.com.br/BAND_RJ/tracks-v1a1/mono.m3u8
 https://cdn-5.nxplay.com.br/BAND_NEWS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="band.sports.br" tvg-name="" tvg-logo="https://i.postimg.cc/vDFfCNRT/Bandsports.png" group-title="",🇧🇷 BAND SPORTS®
-http://play.dnsrot.vip/live/vanessanook/vinr390x8y/215407.m3u8
+https://cdn-5.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SBT@SD" tvg-name="" tvg-logo="https://i.postimg.cc/PqD98L6S/SBT-2026-512p-01.png" group-title="",🇧🇷 SBT SP®
 https://cdn-5.nxplay.com.br/SBT_RJ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 GLOBO TV Rio Sul®
-http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jSdGJ5j3/TV-GLOBO-2026-512X512p-1.png" group-title="",🇧🇷 GLOBO TV SP®
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews FHD" tvg-logo="https://i.postimg.cc/GpXv8cDJ/GLOBO-News-2026-728p-1.png" group-title="",🇧🇷 GloboNews®
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/38397.m3u8
