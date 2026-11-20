@@ -817,7 +817,8 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Cara a Cara® (2018)" tvg-logo="https://i.postimg.cc/rw0LZqyK/PSOEvs-PP.png" group-title="Movies",🇪🇸 Cara a Cara® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/dd4bc940-528f-4559-a852-41afdb39cd47/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Akira® (1988)" tvg-logo="https://i.postimg.cc/WzKwH87z/Akira84.png" group-title="Movies",Akira® (1988)
 https://vz-8fe26208-8ed.b-cdn.net/e2589d51-6302-4535-8abb-a0debd805cb6/playlist.m3u8
@@ -941,10 +942,6 @@ https://vz-8fe26208-8ed.b-cdn.net/4ac8ccfe-225c-4361-8c37-52b99c2b8cf4/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN® (2000)" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN® (2000)
 https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Mister Olympia® (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Movies",🇺🇸 Mister Olympia® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/f632e947-bb92-4cb0-a40b-8e136bca2291/1080p/video.m3u8
