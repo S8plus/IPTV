@@ -886,6 +886,9 @@ https://vz-8fe26208-8ed.b-cdn.net/ed180dd3-9d2e-4578-b8f8-bf76d0692787/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2026)" tvg-logo="" group-title="Movies",Doutor Estranho (2026)
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/975346.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Spider Island®" tvg-logo="https://i.postimg.cc/VkmnMxpV/Spider-Island.png" group-title="Movies",Spider Island® (2026)
+https://vz-8fe26208-8ed.b-cdn.net/d5d00af4-0734-4bb3-8516-467d98a27aaa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Spider-man,a brand new day® (2026)" tvg-logo="https://i.postimg.cc/Fz5gnF1C/Spiderman-wavvy-400px.png" group-title="Movies",Spider-man,a brand new day® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/4570af6d-15f1-40ea-be57-976253e6f435/playlist.m3u8
 
@@ -946,6 +949,9 @@ https://vz-8fe26208-8ed.b-cdn.net/4ac8ccfe-225c-4361-8c37-52b99c2b8cf4/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN® (2000)" tvg-logo="https://i.postimg.cc/YSb4nP13/XMEN.png" group-title="Movies",X-MEN® (2000)
 https://vz-8fe26208-8ed.b-cdn.net/688ee7e3-3525-4d2b-819d-b9e568356f6c/playlist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mister Olympia® (2026)" tvg-logo="https://i.postimg.cc/QtzVMN2W/OLYMPIA-AMATEUR-2026-728x488p-1.png" group-title="Movies",🇺🇸 Mister Olympia® (2026)
 https://vz-8fe26208-8ed.b-cdn.net/f632e947-bb92-4cb0-a40b-8e136bca2291/1080p/video.m3u8
 
@@ -961,8 +967,14 @@ https://vz-8fe26208-8ed.b-cdn.net/7d350bd6-1f15-4215-aba4-7c37407ca806/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Generation Iron 4 (2022)" tvg-logo="https://i.postimg.cc/RZk5YpYN/Generation-Iron-4.png" group-title="Movies",🇺🇸 Generation Iron 4® (2022)
 https://vz-8fe26208-8ed.b-cdn.net/61ba4d0d-f2ed-4fb7-8420-3850caeb2de4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Generation Iron Persia® (2023)" tvg-logo="https://i.postimg.cc/bNv5DN3Q/Generationronersia.png" group-title="Movies",🇺🇸 Generation Iron Persia® (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron 5® (2023)" tvg-logo="https://i.postimg.cc/bNv5DN3Q/Generationronersia.png" group-title="Movies",🇺🇸 Generation Iron 5® (2023)
 https://vz-8fe26208-8ed.b-cdn.net/6ea66fd3-f095-4819-8678-df8aab2cd235/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="the RAW Story® (2024)" tvg-logo="https://i.postimg.cc/JzwjnV72/the-RAW-Story.png" group-title="Movies",🇺🇸 the RAW Story® (2024)
+https://vz-8fe26208-8ed.b-cdn.net/668ac0fd-b944-4f8a-860f-08f71c302de8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lee Priest vs. Bodybuilding® (2024)" tvg-logo="https://i.postimg.cc/NM1zJqG0/Lee-Priest-vs-Bodybuilding.png" group-title="Movies",Lee Priest vs. Bodybuilding® (2024)
+https://vz-8fe26208-8ed.b-cdn.net/2ac48543-d792-4957-93f8-fc9365482dbb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pumping Iron® (1977)" tvg-logo="https://i.postimg.cc/vHQCc4jD/Pumping-Iron.png" group-title="Movies",🇺🇸 Pumping Iron® (1977)
 https://vz-8fe26208-8ed.b-cdn.net/7b88c1f2-9956-4897-8b93-7a4804b585c2/playlist.m3u8
