@@ -599,7 +599,7 @@ https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 https://live-manifest.production-public.tubi.io/live/30fec756-4948-4ecb-98ae-2fda1cd0ee95/playlist.m3u8
 
 #EXTINF:-1 tvg-id="99951369" tvg-name="Unbeaten Sports Channel" tvg-logo="https://i.postimg.cc/Kzx0QB90/UNBEATEN-512-X114p-01.png" group-title="",🇺🇸 UNBEATEN® 
-https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/JzmDHd5J/UFA-512-X629p-01.png" group-title="",🇺🇸 UFA® 
 https://87c9d6408867439b8b70e32642d80cc5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_UnitedFightAlliance/playlist.m3u8
