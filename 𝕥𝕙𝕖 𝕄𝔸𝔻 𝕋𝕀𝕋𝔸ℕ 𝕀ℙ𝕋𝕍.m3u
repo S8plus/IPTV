@@ -439,11 +439,15 @@ https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y8dYdkxd/RTL-2026-728x128p-01.png" group-title="",🇩🇪 RTL®
 https://s6.hopslan.com/rtla111/index.m3u8
 
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name=""  tvg-logo="https://i.postimg.cc/bJDVm0Pw/Porto-Canal-2026-512x460p-01.png" group-title="",🇵🇹 Porto Canal®
-https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/JhjKgWNd/ZDF.png" group-title="",🇩🇪 ZDF®
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Dz5ZRDQx/Das-Erste-2026-512p-01.png" group-title="",🇩🇪 DAS ERSTE®
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name=""  tvg-logo="https://i.postimg.cc/bJDVm0Pw/Porto-Canal-2026-512x460p-01.png" group-title="",🇵🇹 Porto Canal®
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="99951298" tvg-name="BBC News" tvg-logo="https://i.postimg.cc/Pq9rJkY5/BBC-London-26-728x410p-1.png" group-title="",🇬🇧 BBC London® 🔒
 http://92.114.85.52:1453/play/a003/index.m3u8
