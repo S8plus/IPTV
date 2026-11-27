@@ -246,6 +246,9 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XN2JFBMn/Canal-GOV-(1).png" group-title="",🇧🇷 canal GOV®
 https://cdn-5.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SESC TV" tvg-logo="https://i.postimg.cc/k56wL7rh/SESCTV.png" group-title="",🇧🇷 SESC TV®
+https://cdn-5.nxplay.com.br/SESC_TV/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3N1vZRfS/Canal-UOL-2026-728x137p-01.png" group-title="",🇧🇷 UOL®
 https://video24.mais.uol.com.br/live/6146.m3u8
 
@@ -711,7 +714,7 @@ https://vz-8fe26208-8ed.b-cdn.net/62842569-1056-47dc-9a29-172ee959a786/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="Conan,el destructor® (1984)" tvg-logo="https://i.postimg.cc/yNsdSbYk/Conan-the-destroyer.png" group-title="Movies",Conan,el destructor® (1984)
 https://vz-8fe26208-8ed.b-cdn.net/a9fff9d9-9d95-45a6-b84d-d9bca344dd52/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Creed II®  (2018)" tvg-logo="" group-title="Movies",Creed II® (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Creed II®  (2018)" tvg-logo="https://i.postimg.cc/bN2YgNRT/CREED-II.png" group-title="Movies",Creed II® (2018)
 https://vz-8fe26208-8ed.b-cdn.net/2b4b40e9-793b-46a0-b2e7-60bee4240d4e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool vs. Wolverine® (2025)" tvg-logo="https://i.postimg.cc/zBrFZV3Q/Deadpool-Wolverine.png" group-title="Movies",Deadpool vs. Wolverine® (2025)
@@ -806,6 +809,9 @@ https://vz-8fe26208-8ed.b-cdn.net/ebf3001f-c8ea-46c2-ba23-ff99f8095aa7/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings" tvg-logo="https://i.postimg.cc/hPfTB7JV/Lordfth-Rings.png" group-title="Movies",The Lord of the Rings® (1978)
 https://vz-8fe26208-8ed.b-cdn.net/419071c7-4bf1-4be1-8857-4bfde6c763be/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings" tvg-logo="https://i.postimg.cc/SR8dThPZ/the-Lord-of-the-Rings-00.png" group-title="Movies",The Lord of the Rings® (2001)
+https://vz-8fe26208-8ed.b-cdn.net/fe37bf70-a82d-41d0-b49d-e3b36b4f8c1c/play_1080p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultimos dias en el Desierto" tvg-logo="https://i.postimg.cc/j252vs4c/Ultimos-dias-en-el-Desierto.png" group-title="Movies",Ultimos dias en el Desierto® (2015)
 https://vz-8fe26208-8ed.b-cdn.net/a31835c6-1bed-49cf-89d8-0874c94f0d93/playlist.m3u8
